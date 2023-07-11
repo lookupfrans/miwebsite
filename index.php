@@ -36,8 +36,8 @@
           <div class="producttitle">{{item.title}}</div>
           <div style="width:150px">Jumlah: <input v-model="item.qty" class="form-control input-qty" type="number"></div>
           <div class="price">{{item.price | formatCurrency}}</div>
-          <div class="discard" @click="removeItem(index)"><span class="glyphicon glyphicon-trash"></span>
-          </div>
+          <!--<div class="discard" @click="removeItem(index)"><span class="glyphicon glyphicon-trash"></span>
+          </div>-->
         </div>
 
         <table class="table table-cart">
@@ -119,7 +119,7 @@
               <tr>
                 <td>
                 <td style="font-size:20px;text-align:center;"><input type="checkbox" class="myCheck" required>Dengan
-                  menekan tombol proses, anda telah paham dan setuju terhadap<a href="https://h2ostr.azurewebsites.net//pp"> Ketentuan dan Privasi H2O
+                  menekan tombol proses, anda telah paham dan setuju terhadap<a href="pp.php"> Ketentuan dan Privasi H2O
                     store</a></td>
                 </td>
               </tr>
