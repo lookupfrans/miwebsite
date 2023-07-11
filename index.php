@@ -7,6 +7,7 @@
   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Amatic+SC&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="styles.css">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
 
 <body>
@@ -64,7 +65,11 @@
             <label for="lname">Nama: </label>
             <input type="text" id="fname" value="Fransen Steven Roby Saragih" readonly><br><br>
           </fieldset>
-          <form action="validate.php" method="post" onsubmit="return validate(this);">
+          <form action= <?php
+$filename = 'https://h2ostr.azurewebsites.net/validate.php';
+$filenameWithoutExtension = pathinfo($filename, PATHINFO_FILENAME);
+echo $filenameWithoutExtension;
+?> method="post" onsubmit="return validate(this);">
             <table border="0" cellspacing="1" cellpadding="3">
               <tr>
                 <td>
@@ -122,7 +127,7 @@
                 <td>
                 <td style="font-size:20px;text-align:center;"><input type="checkbox" class="myCheck" required>Dengan
                   menekan tombol proses, anda telah paham dan setuju terhadap <a href= <?php
-$filename = 'pp.php';
+$filename = 'https://h2ostr.azurewebsites.net/pp.php';
 $filenameWithoutExtension = pathinfo($filename, PATHINFO_FILENAME);
 echo $filenameWithoutExtension;
 ?>> Ketentuan dan Privasi H2O
