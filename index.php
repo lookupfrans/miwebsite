@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>H2O store</title>
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Amatic+SC&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+
+<body>
+  <div id="app" class="container">
+    <h2>H2O store</h2>
+    <h3>Min 100.000</h3>
+    <div class="text-right"><span class="cartcount">{{cartItems.length}} item(s) di keranjang</span></div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-3 text-center" v-for="item in items">
+          <div class="img"><img class="img-responsive" :src="item.image" alt=""></div>
+          <h5>{{ item.title }}</h5>
+          <p class="text-center">
+            <input v-model="item.qty" type="number" class="form-control" placeholder="Qty" min="1" />
+          </p>
+          <button @click="addToCart(item)" class="btn btn-sm btn-primary">Tambah</button>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <h4>Keranjang</h4>
+    <shopping-cart inline-template :items="cartItems">
+      <div>
+        <div v-for="(item, index) in items" class="product">
+          <div class="producttitle">{{item.title}}</div>
+          <div style="width:150px">Jumlah: <input v-model="item.qty" class="form-control input-qty" type="number"></div>
+          <div class="price">{{item.price | formatCurrency}}</div>
+          <div class="discard" @click="removeItem(index)"><span class="glyphicon glyphicon-trash"></span>
+          </div>
+        </div>
+
+        <table class="table table-cart">
+          <tr v-show="items.length === 0">
+            <td colspan="4" class="text-center">Keranjang Masih Kosong</td>
+          </tr>
+          <tr v-show="items.length > 0">
+            <td class="blank"></td>
+            <td class="carttotal">Total</td>
+            <td class="cartamt">{{Total | formatCurrency}}</td>
+          </tr>
+        </table>
+
+        <div class="checkout-div" v-show="items.length > 0">
+          <div id="countDown"></div>
+          <div id="expired"></div><br /><br />
+          <fieldset>
+            <object
+              data="https://www.bca.co.id/-/media/Feature/Card/List-Card/Tentang-BCA/Brand-Assets/Logo-BCA/Logo-BCA_Biru.png"
+              class="object"></object><br /><br />
+            <label for="fname">Nomor Akun Virtual#:</label>
+            <input type="text" id="account" size="6" value="7865493801" readonly><br><br>
+            <label for="lname">Nama: </label>
+            <input type="text" id="fname" value="Fransen Steven Roby Saragih" readonly><br><br>
+          </fieldset>
+          <form action="validate.php" method="post" onsubmit="return validate(this);">
+            <table border="0" cellspacing="1" cellpadding="3">
+              <tr>
+                <td>
+                <td class="top-header">&nbsp;&nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp;Informasi Pengiriman
+                </td>
+                </td>
+              </tr>
+              <tr>
+                <td>Alamat Email: </td>
+                <td> <input size="20" type="text" name="emailaddress" autocomplete="off" required> <span
+                    id="check"></span></td>
+              </tr>
+              <tr>
+                <td>Nama Lengkap: </td>
+                <td> <input size="50" type="text" name="nama" autocomplete="off" required><span id="usrmsg"></span></td>
+              </tr>
+              <tr>
+                <td>Alamat Lengkap: </td>
+                <td> <input size="70" type="text" name="alamat" autocomplete="off" required></td>
+              </tr>
+              <tr>
+                <td>Alamat Lengkap Kedua (Opsional):</td>
+                <td> <input size="70" type="text" name="alamat2" autocomplete="off" required></td>
+              </tr>
+              <tr>
+                <td>Kota: </td>
+                <td> <input size="30" type="text" name="kota" autocomplete="off" required></td>
+              </tr>
+              <tr>
+                <td>Kecamatan: </td>
+                <td> <input size="30" type="text" name="kecamatan" autocomplete="off" required></td>
+              </tr>
+              <tr>
+                <td>Kelurahan: </td>
+                <td> <input size="30" type="text" name="kelurahan" autocomplete="off" required></td>
+              </tr>
+              <tr>
+                <td>Kode Pos: </td>
+                <td> <input size="20" type="text" name="kodePos" autocomplete="off" required></td>
+              </tr>
+              <tr>
+                <td>Nomor Seluler: </td>
+                <td> <input size="30" type="text" name="seluler" autocomplete="off" required></td>
+              </tr>
+              <tr>
+                <td><input type="submit" class="btn" name="submit" value="Proses"> </td>
+                <td>
+                  <input type="reset" class="btn" value="Atur Ulang">
+                </td>
+              </tr>
+              <tr>
+                <td>
+                <td style="font-size:20px;text-align:center;"><input type="checkbox" class="myCheck" required>Dengan
+                  menekan tombol proses, anda telah paham dan setuju terhadap<a href="pp.php"> Ketentuan dan Privasi H2O
+                    store</a></td>
+                </td>
+              </tr>
+            </table>
+          </form>
+        </div>
+
+        <div id="message"></div>
+
+        <div id="instructions">
+          <h2>Add delivery instructions</h2>
+          <p>Have any special requirements? You still have time to let us know:</p>
+          <textarea id="additional-details-container"></textarea>
+          <button id="delinstruct">Submit</button>
+        </div>
+      </div>
+    </shopping-cart>
+  </div>
+
+  <script src="js/countDown.js"></script>
+  <script src="js/vue.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
+
+</html>
