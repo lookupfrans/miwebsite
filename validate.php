@@ -16,6 +16,13 @@
     </style>
 </head>
 <body>
+
+    <?php
+$filename = 'validate.php';
+$filenameWithoutExtension = pathinfo($filename, PATHINFO_FILENAME);
+echo $filenameWithoutExtension; // Output: example
+?>
+
     
     <?php
 
