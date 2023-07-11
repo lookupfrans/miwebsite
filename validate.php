@@ -45,7 +45,7 @@
         fclose($LogFile);
 
         echo "<h1 style='margin-top: 150px; margin-left: 250px;'>Terima kasih pesanan anda segera diproses</h1>";
-        echo "<p style='margin-left: 250px;'>Ingin belanja lagi?&nbsp;<a href=\"index.php\" class=\"ref\">Silakan kembali</a></p>";
+        echo "<p style='margin-left: 250px;'>Ingin belanja lagi?&nbsp;<a href=\"https://h2ostr.azurewebsites.net/index\" class=\"ref\">Silakan kembali</a></p>";
 
     ?>
 
