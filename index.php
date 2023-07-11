@@ -3,10 +3,10 @@
 
 <head>
   <title>H2O store</title>
-  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Amatic+SC&amp;display=swap" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="css/styles.css">
+  <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 
 <body>
@@ -139,11 +139,11 @@
     </shopping-cart>
   </div>
 
-  <script src="js/countDown.js"></script>
-  <script src="js/vue.min.js"></script>
+  <script src="countDown.js"></script>
+  <script src="vue.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/script.js"></script>
+  <script src="bootstrap.min.js"></script>
+  <script src="script.js"></script>
 </body>
 
 </html>
