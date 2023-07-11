@@ -10,6 +10,12 @@
 </head>
 
 <body>
+  <?php
+$filename = 'ua.php';
+$filenameWithoutExtension = pathinfo($filename, PATHINFO_FILENAME);
+echo $filenameWithoutExtension;
+?>
+
   <div id="app" class="container">
     <h2>H2O store</h2>
     <h3>Min 100.000</h3>
