@@ -63,7 +63,7 @@
             <label for="lname">Nama: </label>
             <input type="text" id="fname" value="Fransen Steven Roby Saragih" readonly><br><br>
           </fieldset>
-          <form action="https://h2ostr.azurewebsites.net/validate" method="post" onsubmit="return validate(this);">
+          <form action="validate.php" method="post" onsubmit="return validate(this);">
             <table border="0" cellspacing="1" cellpadding="3">
               <tr>
                 <td>
@@ -75,40 +75,41 @@
               </tr>
               <tr>
                 <td>Alamat Email: </td>
-                <td> <input size="20" type="text" name="emailaddress" autocomplete="off" required> <span
+                <td> <input size="20" type="text" name="emailaddress" autocomplete="on" required> <span
                     id="check"></span></td>
               </tr>
               <tr>
                 <td>Nama Lengkap: </td>
-                <td> <input size="50" type="text" name="nama" autocomplete="off" required><span id="usrmsg"></span></td>
+                <td> <input size="50" type="text" name="nama" autocomplete="on" required><span id="usrmsg"></span></td>
               </tr>
               <tr>
                 <td>Alamat Lengkap: </td>
-                <td> <input size="70" type="text" name="alamat" autocomplete="off" required></td>
+                <td> <input size="70" type="text" name="alamat" autocomplete="on" required></td>
               </tr>
               <tr>
                 <td>Alamat Lengkap Kedua (Opsional):</td>
-                <td> <input size="70" type="text" name="alamat2" autocomplete="off" required></td>
+                <td> <input size="70" type="text" name="alamat2" autocomplete="on" required></td>
               </tr>
               <tr>
                 <td>Kota: </td>
-                <td> <input size="30" type="text" name="kota" autocomplete="off" required></td>
+                <td> <input size="30" type="text" name="kota" autocomplete="on" required></td>
               </tr>
               <tr>
                 <td>Kecamatan: </td>
-                <td> <input size="30" type="text" name="kecamatan" autocomplete="off" required></td>
+                <td> <input size="30" type="text" name="kecamatan" autocomplete="on" required></td>
               </tr>
               <tr>
                 <td>Kelurahan: </td>
-                <td> <input size="30" type="text" name="kelurahan" autocomplete="off" required></td>
+                <td> <input size="30" type="text" name="kelurahan" autocomplete="on" required></td>
               </tr>
               <tr>
                 <td>Kode Pos: </td>
-                <td> <input size="20" type="text" name="kodePos" autocomplete="off" required></td>
+                <td> <input size="20" type="text" name="kodePos" autocomplete="on" pattern="\d{5}?"
+                      title="Must be XXXXX" required></td>
               </tr>
               <tr>
                 <td>Nomor Seluler: </td>
-                <td> <input size="30" type="text" name="seluler" autocomplete="off" required></td>
+                <td> <input size="30" type="text" name="seluler" autocomplete="on" pattern="\d{4}[\-]\d{4}[\-]\d{4}" title="Must be XXXX-XXXX-XXXX" required></td>
               </tr>
               <tr>
                 <td><input type="submit" class="btn" name="submit" value="Proses"> </td>
