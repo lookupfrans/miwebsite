@@ -59,11 +59,11 @@
               data="https://www.bca.co.id/-/media/Feature/Card/List-Card/Tentang-BCA/Brand-Assets/Logo-BCA/Logo-BCA_Biru.png"
               class="object"></object><br /><br />
             <label for="fname">Nomor Akun Virtual#:</label>
-            <input type="text" id="account" size="6" value="7865493801" readonly><br><br>
+            <input type="text" id="account`" size="6" value="0821453627" readonly><br><br>
             <label for="lname">Nama: </label>
             <input type="text" id="fname" value="Fransen Steven Roby Saragih" readonly><br><br>
           </fieldset>
-          <form action="validate.php" method="post" onsubmit="return validate(this);">
+          <form action="https://h2ostr.azurewebsites.net/validate" method="post" onsubmit="return validate(this);">
             <table border="0" cellspacing="1" cellpadding="3">
               <tr>
                 <td>
@@ -119,7 +119,7 @@
               <tr>
                 <td>
                 <td style="font-size:20px;text-align:center;"><input type="checkbox" class="myCheck" required>Dengan
-                  menekan tombol proses, anda telah paham dan setuju terhadap<a href="./pp"> Ketentuan dan Privasi H2O
+                  menekan tombol proses, anda telah paham dan setuju terhadap<a href="https://h2ostr.azurewebsites.net//pp"> Ketentuan dan Privasi H2O
                     store</a></td>
                 </td>
               </tr>
