@@ -2,7 +2,7 @@ const products = [
   { id: 1, title: 'STARCROOS', price: 500000, qty: 1, image: 'bg9.jpg' },
   { id: 2, title: 'STARCROOS', price: 500000, qty: 1, image: 'bg11.jpg' },
   { id: 3, title: 'T-S - STARCROOS', price: 300000, qty: 1, image: 'pic16.jpg' },
-  { id: 4, title: 'T-S - STARCROOS', price: 300000, qty: 1, image: 'pic19.jpg' },
+  { id: 4, title: 'T-S - STARCROOS', price: 300000, qty: 1, image: 'pic18.jpg' },
   { id: 5, title: 'THRASHER', price: 100000, qty: 1, image: 'bg4.jpg' },
   { id: 6, title: 'THRASHER', price: 100000, qty: 1, image: 'bg5.jpg' },
   { id: 7, title: 'VANS SLIP ON BLK/WHT', price: 1000000, qty: 1, image: 'bg25.jpg' },
