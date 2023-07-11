@@ -66,7 +66,7 @@
             <input type="text" id="fname" value="Fransen Steven Roby Saragih" readonly><br><br>
           </fieldset>
           <form action= <?php
-$filename = 'https://h2ostr.azurewebsites.net/validate.php';
+$filename = 'validate.php';
 $filenameWithoutExtension = pathinfo($filename, PATHINFO_FILENAME);
 echo $filenameWithoutExtension;
 ?> method="post" onsubmit="return validate(this);">
@@ -127,7 +127,7 @@ echo $filenameWithoutExtension;
                 <td>
                 <td style="font-size:20px;text-align:center;"><input type="checkbox" class="myCheck" required>Dengan
                   menekan tombol proses, anda telah paham dan setuju terhadap <a href= <?php
-$filename = 'https://h2ostr.azurewebsites.net/pp.php';
+$filename = 'pp.php';
 $filenameWithoutExtension = pathinfo($filename, PATHINFO_FILENAME);
 echo $filenameWithoutExtension;
 ?>> Ketentuan dan Privasi H2O
