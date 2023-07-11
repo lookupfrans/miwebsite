@@ -11,7 +11,7 @@
 
 <body>
   <?php
-$filename = 'ua.php';
+$filename = 'pp.php';
 $filenameWithoutExtension = pathinfo($filename, PATHINFO_FILENAME);
 echo $filenameWithoutExtension;
 ?>
