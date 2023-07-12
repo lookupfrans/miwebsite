@@ -8,6 +8,25 @@
   <title>H2O store</title>
   <link rel="stylesheet" href="responsive2.php">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <style>
+     .heading {
+            margin-left: 250px;
+            margin-top: 10%;
+        }
+
+        .heading1 {
+            margin-left: 250px;
+        }
+        
+        .heading1 a {
+            text-decoration: none;
+            color: red;
+        }
+
+        .heading1 a:hover {
+            border-bottom: 1px solid;
+        }
+  </style>
 </head>
 
 <div class="message-wrapper" style="padding-right:200px;padding-left:200px;margin-left:0px;">
@@ -32,6 +51,10 @@
       have not been notified of their undelivery within this time frame.</p>
   </div>
   <br /><br />
+
+    echo '<h1 class=\"heading\">Terima kasih pesanan anda segera diproses!!</h1>'; ?>
+    echo '<h3 class=\"heading1\">Ingin belanja lagi?&nbsp;<a href=\"index.php\" class=\"ref\">Silakan kembali</a></h3>'; ?>
+  
   </body>
 
 </html>
