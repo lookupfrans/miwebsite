@@ -52,8 +52,7 @@
   </div>
   <br /><br />
 
-    echo '<h1 class=\"heading\">Terima kasih pesanan anda segera diproses!!</h1>'; ?>
-    echo '<h3 class=\"heading1\">Ingin belanja lagi?&nbsp;<a href=\"index.php\" class=\"ref\">Silakan kembali</a></h3>'; ?>
+    echo '<h3 class=\"heading1\"><a href=\"index.php\" class=\"ref\">Silakan kembali</a></h3>'; ?>
   
   </body>
 
