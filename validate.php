@@ -19,13 +19,6 @@
 <body>
 
     <?php
-$filename = 'validate.php';
-$filenameWithoutExtension = pathinfo($filename, PATHINFO_FILENAME);
-echo $filenameWithoutExtension; // Output: example
-?>
-
-    
-    <?php
 
         date_default_timezone_set('Asia/Bangkok');
         $myDate = date('Y-m-d H:i:s');
