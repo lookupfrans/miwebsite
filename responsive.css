@@ -3,6 +3,19 @@
         background-color: #000;
     }
 
+    label {
+        color: #fff;
+    }
+
+    input-qty {
+        color: #fff;
+    }
+
+    h3 {
+        color: #fff;
+        opacity: 0.6;
+    }
+
     a .ref {
         text-align: center;
     }
@@ -22,12 +35,12 @@
     }
 
     .form-control {
-        border: 1px solid #fff;
+        /*border: 1px solid #fff;*/
         background-color: #000;
     }
 
     input[type=text] {
-        border: 2px solid #000;
+        /*border: 2px solid #000;*/
         color: #fff;
     }
 
@@ -83,6 +96,19 @@
         background-color: #000;
     }
 
+    label {
+        color: #fff;
+    }
+
+    input-qty {
+        color: #fff;
+    }
+
+    h3 {
+        color: #fff;
+        opacity: 0.6;
+    }
+
     a .ref {
         text-align: center;
     }
@@ -102,12 +128,12 @@
     }
 
     .form-control {
-        border: 1px solid #fff;
+        /*border: 1px solid #fff;*/
         background-color: #000;
     }
 
    input[type=text] {
-      border: 2px solid #000;
+      /*border: 2px solid #000;*/
       color: #fff;
     }
 
