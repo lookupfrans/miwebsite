@@ -3,8 +3,8 @@
         background-color: #000;
     }
 
-     .top-header {
-        text-align: center;
+    .top-header {
+        margin-right: 100px;
     }
     
     .cartcount {
@@ -134,9 +134,9 @@
      }
 
     .top-header {
-        text-align: center;
+        margin-right: 100px;
     }
-
+    
      input[type=submit]:hover {
       border: 2px solid #fff;
       color: #fff;
