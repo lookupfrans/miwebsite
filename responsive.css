@@ -15,10 +15,6 @@
         color: #fff;
     }
 
-    /*fieldset label input [type=text] {
-        width: 30%;
-    }*/
-
     input-qty {
         color: #fff;
     }
@@ -87,7 +83,6 @@
     input[type=text] {
         border: 2px solid #fff;
         color: #fff;
-        width: 80%;
     }
 
      input[type=checkbox] {
@@ -124,6 +119,7 @@
     .message-wrapper {
         width: 100%;
         margin: 0;
+        margin-right: 20px;
     }
     
     mark {
@@ -185,10 +181,6 @@
         color: #fff;
     }
 
-    /*fieldset label input [type=text] {
-        width: 30%;
-    }*/
-
     input-qty {
         color: #fff;
     }
@@ -227,7 +219,6 @@
    input[type=text] {
       border: 1px solid #fff;
       color: #fff;
-      width: 80%;
     }
 
      input[type=checkbox] {
@@ -280,5 +271,6 @@
      .message-wrapper {
         width: 100%;
         margin: 0;
+        margin-right: 20px;
     }
 }
