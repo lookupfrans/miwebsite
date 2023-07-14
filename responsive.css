@@ -81,12 +81,12 @@
     }
 
     .form-control {
-        border: 1px solid #fff;
+        /*border: 1px solid #fff;*/
         background-color: #000;
     }
 
     input[type=text] {
-        /*border: 2px solid #000;*/
+        border: 2px solid #fff;
         color: #fff;
         width: 80%;
     }
@@ -222,12 +222,12 @@
     }
 
     .form-control {
-        border: 1px solid #fff;
+        /*border: 1px solid #fff;*/
         background-color: #000;
     }
 
    input[type=text] {
-      /*border: 2px solid #000;*/
+      border: 1px solid #fff;
       color: #fff;
       width: 80%;
     }
