@@ -3,6 +3,10 @@
         background-color: #000;
     }
 
+    a .ref {
+        text-align: center;
+    }
+
     td {
         color: #fff;
     }
@@ -77,6 +81,10 @@
 @media all and (max-width: 670px) {
      body {
         background-color: #000;
+    }
+
+    a .ref {
+        text-align: center;
     }
 
     td {
