@@ -51,8 +51,6 @@
       have not been notified of their undelivery within this time frame.</p>
   </div>
   <br /><br />
-
-    echo '<h3 class=\"heading1\"><a href=\"index.php\" class=\"ref\">Silakan kembali</a></h3>'; ?>
   
   </body>
 
