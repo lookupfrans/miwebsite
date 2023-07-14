@@ -3,14 +3,28 @@
         background-color: #000;
     }
 
+    td {
+        color: #fff;
+    }
+
+     input[type=submit] {
+      border: 2px solid #000;
+      color: #fff;
+    }
+
+     input[type=reset] {
+      border: 2px solid #000;
+      color: #fff;
+    }
+
     .form-control {
         border: 1px solid #fff;
         background-color: #000;
     }
 
-   input[type=text] {
-      border: 2px solid #000;
-      color: #fff;
+    input[type=text] {
+        border: 2px solid #000;
+        color: #fff;
     }
 
      input[type=checkbox] {
@@ -63,6 +77,20 @@
 @media all and (max-width: 670px) {
      body {
         background-color: #000;
+    }
+
+    td {
+        color: #fff;
+    }
+
+     input[type=submit] {
+      border: 2px solid #000;
+      color: #fff;
+    }
+
+     input[type=reset] {
+      border: 2px solid #000;
+      color: #fff;
     }
 
     .form-control {
