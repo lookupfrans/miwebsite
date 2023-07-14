@@ -2,16 +2,6 @@
     body {
         background-color: #000;
     }
-
-    fieldset {
-        width: 100%;
-        margin: 0;
-    }
-
-     form {
-        width: 100%;
-        margin: 0;
-    }
     
     .cartcount {
         color: #fff;
@@ -89,14 +79,6 @@
         border: 2px solid #fff;
         color: #fff;
     }
-    
-    input[type=text]:nth-child(3) {
-        width: 80%;
-    }
-
-     input[type=text]:nth-child(4) {
-        width: 80%;
-    }
 
      input[type=checkbox] {
       border: 2px solid #fff;
@@ -145,24 +127,6 @@
      body {
         background-color: #000;
      }
-
-    form {
-        width: 100%;
-        margin: 0;
-    }
-
-    fieldset {
-        width: 100%;
-        margin: 0;
-    }
-
-     input[type=text]:nth-child(3) {
-        width: 80%;
-    }
-
-     input[type=text]:nth-child(4) {
-        width: 80%;
-    }
 
      input[type=submit]:hover {
       border: 2px solid #fff;
@@ -239,6 +203,7 @@
    input[type=text] {
       border: 1px solid #fff;
       color: #fff;
+      width: 75%;
     }
 
      input[type=checkbox] {
