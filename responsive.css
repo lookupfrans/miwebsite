@@ -14,7 +14,7 @@
     th {
         color: #fff;
         float: left;
-        border-bottom: 1px solid #fff;
+        margin: 0;
     }
 
     .producttitle {
@@ -142,7 +142,7 @@
     th {
         color: #fff;
         float: left;
-        border-bottom: 1px solid #fff;
+        margin: 0;
     }
 
     .top-header {
