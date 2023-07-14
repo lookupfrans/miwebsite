@@ -133,7 +133,7 @@
     .message-wrapper {
         width: 100%;
         margin: 0;
-        margin-right: 20px;
+        margin-left: 30px;
     }
     
     mark {
@@ -299,6 +299,6 @@
      .message-wrapper {
         width: 100%;
         margin: 0;
-        margin-right: 20px;
+        margin-left: 30px;
     }
 }
