@@ -16,7 +16,7 @@
         width: 30%;
     }
 
-    label input [type=text] {
+    fieldset label input [type=text] {
         width: 30%;
     }
 
@@ -43,6 +43,7 @@
 
     a .ref {
         text-align: center;
+        margin-right: 100px;
     }
 
     td {
@@ -185,7 +186,7 @@
         width: 30%;
     }
 
-    label input [type=text] {
+    fieldset label input [type=text] {
         width: 30%;
     }
 
@@ -200,6 +201,7 @@
 
     a .ref {
         text-align: center;
+        margin-right: 200px;
     }
 
     td {
