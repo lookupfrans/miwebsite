@@ -56,7 +56,7 @@ include('ua.php');
   </div>
 <br/><br/><br/>
 
-  <php echo "<p style='margin-left: 390px;'>&nbsp;<a href="index.php" class="ref">Silakan kembali</a></p>
+  <?php echo "<p style='margin-left: 390px;'>&nbsp;<a href=\"index.php\" class=\"ref\">Silakan kembali</a></p>"; ?>
 
   </body>
 
