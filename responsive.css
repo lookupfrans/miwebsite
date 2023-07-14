@@ -98,6 +98,7 @@
 
     h2 {
         color: #fff;
+        border-bottom: 1px solid #fff;
     }
 
     .ref {
@@ -238,6 +239,7 @@
 
     h2 {
         color: #fff;
+        border-bottom: 1px solid #fff;
     }
 
     .ref {
@@ -279,6 +281,6 @@
  
      .message-wrapper {
         width: 100%;
-        margin: 0;
+        margin: 20px;
     }
 }
