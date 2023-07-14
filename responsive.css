@@ -43,13 +43,15 @@
      input[type=submit] {
       border: 2px solid #fff;
       color: #fff;
-      background-color: #008000;
+      background-color: #8b0000;
+      border: 1px solid #8b0000;
     }
 
      input[type=reset] {
       border: 2px solid #fff;
       color: #fff;
-      background-color: #008000;
+      background-color: #8b0000;
+      border: 1px solid #8b0000;
     }
 
     input[type=number] {
@@ -57,13 +59,14 @@
     }
 
     .form-control {
-        /*border: 1px solid #fff;*/
+        border: 1px solid #fff;
         background-color: #000;
     }
 
     input[type=text] {
         /*border: 2px solid #000;*/
         color: #fff;
+        width: 50%;
     }
 
      input[type=checkbox] {
@@ -162,23 +165,26 @@
     input[type=submit] {
       border: 2px solid #fff;
       color: #fff;
-      background-color: #008000;
+      background-color: #8b0000;
+      border: 1px solid #8b0000;
     }
 
      input[type=reset] {
       border: 2px solid #fff;
       color: #fff;
-      background-color: #008000;
+      background-color: #8b0000;
+      border: 1px solid #8b0000;
     }
 
     .form-control {
-        /*border: 1px solid #fff;*/
+        border: 1px solid #fff;
         background-color: #000;
     }
 
    input[type=text] {
       /*border: 2px solid #000;*/
       color: #fff;
+      width: 50%;
     }
 
      input[type=checkbox] {
