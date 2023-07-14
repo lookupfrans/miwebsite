@@ -2,6 +2,10 @@
     body {
         background-color: #000;
     }
+
+     .top-header {
+        text-align: center;
+    }
     
     .cartcount {
         color: #fff;
@@ -108,8 +112,8 @@
     }
     
     .message-wrapper {
-        width: 90%;
-        margin: 0;
+        width: 100%;
+        margin: 10px;
     }
     
     mark {
@@ -128,6 +132,10 @@
      body {
         background-color: #000;
      }
+
+    .top-header {
+        text-align: center;
+    }
 
      input[type=submit]:hover {
       border: 2px solid #fff;
@@ -250,7 +258,7 @@
     }
  
      .message-wrapper {
-        width: 90%;
-        margin: 0;
+        width: 100%;
+        margin: 10px;
     }
 }
