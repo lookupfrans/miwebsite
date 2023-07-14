@@ -15,6 +15,10 @@
         color: #fff;
     }
 
+    label input [type=text] {
+        width: 30%;
+    }
+
     input-qty {
         color: #fff;
     }
@@ -42,6 +46,20 @@
 
     td {
         color: #fff;
+    }
+
+    input[type=submit]:hover {
+      border: 2px solid #fff;
+      color: #fff;
+      background-color: #8b0000;
+      border: 1px solid #8b0000;
+    }
+
+     input[type=reset]:hover {
+      border: 2px solid #fff;
+      color: #fff;
+      background-color: #8b0000;
+      border: 1px solid #8b0000;
     }
 
      input[type=submit] {
@@ -125,6 +143,20 @@
         background-color: #000;
     }
 
+     input[type=submit]:hover {
+      border: 2px solid #fff;
+      color: #fff;
+      background-color: #8b0000;
+      border: 1px solid #8b0000;
+    }
+
+     input[type=reset]:hover {
+      border: 2px solid #fff;
+      color: #fff;
+      background-color: #8b0000;
+      border: 1px solid #8b0000;
+    }
+
      .cartcount {
         color: #fff;
     }
@@ -151,6 +183,10 @@
 
     label {
         color: #fff;
+    }
+
+    label input [type=text] {
+        width: 30%;
     }
 
     input-qty {
