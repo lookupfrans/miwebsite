@@ -78,7 +78,7 @@
               </tr>
               <tr>
                 <td>Alamat Email: </td>
-                <td> <input size="20" type="email" name="emailaddress" autocomplete="on" required> <span
+                <td> <input size="20" type="text" name="emailaddress" autocomplete="on" required> <span
                     id="check"></span></td>
               </tr>
               <tr>
