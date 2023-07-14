@@ -62,9 +62,9 @@
               data="https://www.bca.co.id/-/media/Feature/Card/List-Card/Tentang-BCA/Brand-Assets/Logo-BCA/Logo-BCA_Biru.png"
               class="object"></object><br /><br />
             <label for="fname">Nomor Akun Virtual#:</label>
-            <input type="text" id="account`" size="6" value="0821453627" readonly><br><br>
+            <input type="number" id="account" size="0" value="0812346752" readonly style="background-color:black;width:12%;"><br><br>
             <label for="lname">Nama: </label>
-            <input type="text" id="fname" value="Fransen Steven Roby Saragih" readonly><br><br>
+            <input type="textarea" id="fname" value="Fransen Steven Roby Saragih" readonly style="background-color:black;"><br><br>
           </fieldset>
           <form action="validate.php" method="post" onsubmit="return validate(this);">
             <table border="0" cellspacing="1" cellpadding="3">
