@@ -54,7 +54,7 @@ include('ua.php');
       their contact information from our mailing list, at which point it is deleted from our files.
       If you wish to unsubscribe from our mailing list you are welcome to do this at any time.</p>
   </div>
-<br/><br/><br/>
+<br/><br/>
 
   <?php echo "<p style='margin-left:0px;text-align:center;'>&nbsp;<a href=\"index.php\" class=\"ref\">Silakan kembali</a></p>"; ?>
 
