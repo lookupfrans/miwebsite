@@ -11,6 +11,10 @@
         color: #fff;
     }
 
+    h5 {
+        color: #fff;
+    }
+
     h3 {
         color: #fff;
         opacity: 0.6;
@@ -94,6 +98,11 @@
 @media all and (max-width: 670px) {
      body {
         background-color: #000;
+    }
+
+    
+    h5 {
+        color: #fff;
     }
 
     label {
