@@ -35,7 +35,7 @@
       User Agreement</h1>
     <hr>
     <b>DISCLAIMER</b>
-    <p style="margin-top: 0px; padding-bottom: 50px;padding-top:10px;">
+    <p style="margin-top: 0px;text-align: justify; padding-bottom: 50px;padding-top:10px;">
       Please be <mark style="color:yellow">aware</mark> that our products’ colours may look slightly different to
       how they appear on devices― and colours may vary from one batch to the next. Due to the nature
       of the living colours of our natural dyes, colours may change and mature over time.
