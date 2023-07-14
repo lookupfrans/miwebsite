@@ -190,8 +190,16 @@
         color: white;
     }
     
-    h1 {
-        color: white;
+      h1 {
+        color: #000;
+    }
+
+    b {
+        color: #000;
+    }
+
+    p {
+        color: #000;
     }
     
     .info2 .button {
