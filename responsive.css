@@ -3,6 +3,10 @@
         background-color: #000;
     }
 
+    .cartcount {
+        color: #fff;
+    }
+
     .producttitle {
         color: #fff;
     }
@@ -119,6 +123,10 @@
 @media all and (max-width: 670px) {
      body {
         background-color: #000;
+    }
+
+     .cartcount {
+        color: #fff;
     }
 
      input[type=number] {
