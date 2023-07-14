@@ -64,7 +64,7 @@
             <label for="fname">Nomor Akun Virtual#:</label>
             <input type="number" id="account" size="0" value="0812346752" readonly style="background-color:black;width:12%;"><br><br>
             <label for="lname">Nama: </label>
-            <input type="textarea" id="fname" value="Fransen Steven Roby Saragih" readonly style="background-color:black;"><br><br>
+            <input type="textarea" id="fname" value="Fransen Steven Roby Saragih" readonly style="color:white;background-color:black;"><br><br>
           </fieldset>
           <form action="validate.php" method="post" onsubmit="return validate(this);">
             <table border="0" cellspacing="1" cellpadding="3">
