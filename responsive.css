@@ -8,6 +8,11 @@
         margin: 0;
     }
 
+     form {
+        width: 100%;
+        margin: 0;
+    }
+    
     .cartcount {
         color: #fff;
     }
@@ -127,7 +132,6 @@
 
     p {
         color: #fff;
-         text-align: center;
     }
     
     .message-wrapper {
@@ -152,6 +156,11 @@
      body {
         background-color: #000;
      }
+
+    form {
+        width: 100%;
+        margin: 0;
+    }
 
     fieldset {
         width: 100%;
@@ -277,7 +286,6 @@
 
     p {
         color: #fff;
-        text-align: center;
     }
     
     mark {
