@@ -1,4 +1,12 @@
 @media all and (max-width: 1080px) {
+    body {
+        background-color: #000;
+    }
+    
+    .container {
+        background-color: #000;
+    }
+    
     h1 {
         color: #000;
     }
@@ -29,6 +37,14 @@
 }
 
 @media all and (max-width: 670px) {
+     body {
+        background-color: #000;
+    }
+    
+    .container {
+        background-color: #000;
+    }
+    
       h1 {
         color: #000;
     }
