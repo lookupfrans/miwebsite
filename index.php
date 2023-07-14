@@ -70,9 +70,7 @@
             <table border="0" cellspacing="1" cellpadding="3">
               <tr>
                 <td>
-                <td class="top-header">&nbsp;&nbsp;&nbsp;
-                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                  &nbsp;&nbsp;&nbsp;Informasi Pengiriman
+               <th style="font-weight:normal;font-size:25px;padding-bottom:50px;text-align:center;">Informasi Pengiriman</th>
                 </td>
                 </td>
               </tr>
