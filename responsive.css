@@ -3,6 +3,10 @@
         background-color: #000;
     }
 
+    .producttitle {
+        color: #fff;
+    }
+
     label {
         color: #fff;
     }
@@ -46,6 +50,10 @@
       border: 2px solid #fff;
       color: #fff;
       background-color: #008000;
+    }
+
+    input[type=number] {
+      color: #fff;
     }
 
     .form-control {
@@ -108,6 +116,14 @@
 @media all and (max-width: 670px) {
      body {
         background-color: #000;
+    }
+
+     input[type=number] {
+      color: #fff;
+    }
+
+     .producttitle {
+        color: #fff;
     }
     
      h4 {
