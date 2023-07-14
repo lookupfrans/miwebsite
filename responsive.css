@@ -13,7 +13,7 @@
 
     th {
         color: #fff;
-        margin: 0;
+        float: left;
     }
 
     .producttitle {
@@ -140,7 +140,7 @@
 
     th {
         color: #fff;
-        margin: 0;
+        float: left;
     }
 
     .top-header {
