@@ -7,6 +7,10 @@
         color: #fff;
     }
 
+    p {
+      text-align: center;
+    }
+
     .producttitle {
         color: #fff;
     }
@@ -145,6 +149,10 @@
 @media all and (max-width: 670px) {
      body {
         background-color: #000;
+    }
+
+    p {
+      text-align: center;
     }
 
      input[type=text]:nth-child(3) {
