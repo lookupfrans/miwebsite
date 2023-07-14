@@ -11,6 +11,11 @@
         color: #fff;
     }
 
+    th {
+        color: #fff;
+        margin: 0;
+    }
+
     .producttitle {
         color: #fff;
     }
@@ -132,6 +137,11 @@
      body {
         background-color: #000;
      }
+
+    th {
+        color: #fff;
+        margin: 0;
+    }
 
     .top-header {
         margin-right: 100px;
