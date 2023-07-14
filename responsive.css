@@ -49,7 +49,15 @@
     }
     
     h1 {
-        color: #fff;
+        color: #000;
+    }
+
+    b {
+        color: #000;
+    }
+
+    p {
+        color: #000;
     }
     
     .pure-form {
