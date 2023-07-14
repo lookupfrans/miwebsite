@@ -15,6 +15,14 @@
         color: #fff;
     }
 
+     h4 {
+        color: #fff;
+    }
+
+     .product {
+        color: #fff;
+    }
+
     h3 {
         color: #fff;
         opacity: 0.6;
@@ -29,13 +37,15 @@
     }
 
      input[type=submit] {
-      border: 2px solid #000;
+      border: 2px solid #fff;
       color: #fff;
+      background-color: #008000;
     }
 
      input[type=reset] {
-      border: 2px solid #000;
+      border: 2px solid #fff;
       color: #fff;
+      background-color: #008000;
     }
 
     .form-control {
@@ -99,7 +109,14 @@
      body {
         background-color: #000;
     }
+    
+     h4 {
+        color: #fff;
+    }
 
+     .product {
+        color: #fff;
+    }
     
     h5 {
         color: #fff;
@@ -126,14 +143,16 @@
         color: #fff;
     }
 
-     input[type=submit] {
-      border: 2px solid #000;
+    input[type=submit] {
+      border: 2px solid #fff;
       color: #fff;
+      background-color: #008000;
     }
 
      input[type=reset] {
-      border: 2px solid #000;
+      border: 2px solid #fff;
       color: #fff;
+      background-color: #008000;
     }
 
     .form-control {
