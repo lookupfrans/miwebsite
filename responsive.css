@@ -93,8 +93,8 @@
         border: 1px solid #fff;
         color: #fff;
         width: 75%;
-        padding-top: 10px;
-        padding-bottom: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
 
      input[type=checkbox] {
@@ -235,8 +235,8 @@
       border: 1px solid #fff;
       color: #fff;
       width: 75%;
-       padding-top: 10px;
-        padding-bottom: 10px;
+      margin-top: 10px;
+      margin-bottom: 10px;
     }
 
      input[type=checkbox] {
