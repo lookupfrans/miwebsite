@@ -70,7 +70,7 @@
             <table border="0" cellspacing="1" cellpadding="3">
               <tr>
                 <td>
-               <article style="border-bottom:2px solid #fff;margin-bottom:30px;width:200%;font-size:25px;font-weight:bold;">Informasi Pengiriman</article>
+               <article style="margin:0;border-bottom:2px solid #fff;margin-bottom:30px;width:200%;font-size:25px;font-weight:bold;">Informasi Pengiriman</article>
                 </td>
                 </td>
               </tr>
