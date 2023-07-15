@@ -62,7 +62,7 @@
               data="https://www.bca.co.id/-/media/Feature/Card/List-Card/Tentang-BCA/Brand-Assets/Logo-BCA/Logo-BCA_Biru.png"
               class="object"></object><br /><br />
             <label for="fname">Nomor Akun Virtual#:</label>
-            <input type="number" id="account" size="0" value="0812346752" readonly style="background-color:black;width:12%;"><br><br>
+            <input type="number" id="account" size="0" value="0812346752" readonly style="background-color:black;width:13%;"><br><br>
             <label for="lname">Nama: </label>
             <input type="textarea" id="fname" value="Fransen Steven Roby Saragih" readonly style="color:white;background-color:black;"><br><br>
           </fieldset>
@@ -70,7 +70,7 @@
             <table border="0" cellspacing="1" cellpadding="3">
               <tr>
                 <td>
-               <article style="margin:0;border-bottom:2px solid #fff;margin-bottom:30px;width:160%;font-size:20px;font-weight:bold;">Informasi Pengiriman</article>
+               <article style="margin:0;border-bottom:2px solid #fff;margin-bottom:30px;width:100%;font-size:20px;font-weight:bold;">Informasi Pengiriman</article>
                 </td>
                 </td>
               </tr>
