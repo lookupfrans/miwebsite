@@ -29,7 +29,7 @@ include('header.php');
 
 
 </style>
-<body>
+<body oncontextmenu="return false">
 <?php
 include('ua.php');
 ?>
