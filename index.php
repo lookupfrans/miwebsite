@@ -11,7 +11,7 @@
   <link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
 
-<body>
+<body oncontextmenu="return false">
 
   <div id="app" class="container">
     <h2>H2O store</h2>
