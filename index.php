@@ -126,7 +126,8 @@
                 </td>
               </tr>
             </table>
-          </form>
+          </form><br/>
+          <h6 style="text-align:right;font-size:20px;font-weight:bold;">&#169; H20 store</h6>
         </div>
 
         <div id="message"></div>
