@@ -29,6 +29,7 @@
   </style>
 </head>
 
+<body oncontextmenu="return false">
 <div class="message-wrapper" style="padding-right:200px;padding-left:200px;margin-left:0px;">
   <div class="container">
     <h1 style="margin-top: 0px; text-align: center; font-family: 'Cormorant',; padding-top: 0px; opacity: 0.5;">
