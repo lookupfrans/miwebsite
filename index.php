@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>Shelf store</title>
+  <title>H2O store</title>
   <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Amatic+SC&amp;display=swap" rel="stylesheet">
@@ -14,7 +14,7 @@
 <body oncontextmenu="return false">
 
   <div id="app" class="container">
-    <h2>Shelf store</h2>
+    <h2>H2O store</h2>
     <h3>Min 100.000</h3>
     <div class="text-right"><span class="cartcount">{{cartItems.length}} item(s) di keranjang</span></div>
 
@@ -121,7 +121,7 @@
               <tr>
                 <td>
                 <td style="font-size:20px;text-align:center;"><input type="checkbox" class="myCheck" required>Dengan
-                  menekan tombol proses, anda telah paham dan setuju terhadap <a href="pp.php"> Ketentuan dan Privasi Shelf
+                  menekan tombol proses, anda telah paham dan setuju terhadap <a href="pp.php"> Ketentuan dan Privasi H2O
                     store</a></td>
                 </td>
               </tr>
