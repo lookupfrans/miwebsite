@@ -7,10 +7,6 @@
         width: 200%;
     }
 
-    h4 {
-      color: #fff;
-    }
-
     .top-header {
         margin-right: 100px;
     }
@@ -148,13 +144,7 @@
      body {
         background-color: #000;
      }
-
     
-    h4 {
-      border-bottom: 1px solid #000000;
-      color: #fff;
-    }
-
     article {
         margin: 0;
     }
