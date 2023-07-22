@@ -41,7 +41,7 @@ include('ua.php');
     <hr>
     <b style="padding-left:0px;">INFORMATION</b>
     <p style="margin-top: 5px; text-align: justify; margin-left:0px;;padding-top:5px;">We record names and contact email
-      addresses via the email sign-up box and pop-up boxes on our website.
+      addresses via the pop-up boxes on our website.
       We use this information to send out occasional emails to update our followers with newsletters (blog
       articles,
       announcements, reports), promotional (sales, deals, gifts, offers), partnerships and funding cooperation
