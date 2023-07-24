@@ -1,6 +1,8 @@
 @media all and (max-width: 1080px) {
     body {
         background-color: #000;
+        margin:0;
+        width:100%;
     }
 
     a .ref {
@@ -167,6 +169,8 @@
 @media all and (max-width: 670px) {
      body {
         background-color: #000;
+        margin:0;
+        width:100%;
      }
 
     a .ref {
