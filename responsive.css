@@ -3,6 +3,12 @@
         background-color: #000;
     }
 
+    a .ref {
+        margin:0;
+        width:100%;
+        text-align:center;
+    }
+
     article {
         width: 200%;
     }
@@ -162,6 +168,12 @@
      body {
         background-color: #000;
      }
+
+    a .ref {
+        margin:0;
+        width:100%;
+        text-align:center;
+    }
 
     h4 {
         border-bottom: 1px solid #fff;
