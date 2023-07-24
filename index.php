@@ -21,7 +21,8 @@
     <div class="container">
       <div class="row">
         <div class="col-xs-3 text-center" v-for="item in items">
-          <div class="img"><img class="img-responsive" :src="item.image" alt=""></div>
+          <div class="img"><img class="img-responsive" :src="item.image" alt=""></div><br/>
+          <p>10 left</p>
           <h5>{{ item.title }}</h5>
           <p class="text-center">
             <input v-model="item.qty" type="number" class="form-control" placeholder="Qty" min="1" />
