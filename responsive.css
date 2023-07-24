@@ -118,6 +118,8 @@
     h1 {
         color: #fff;
         margin:0;
+        width:100%;
+        text-align:center;
     }
 
     b {
@@ -127,6 +129,8 @@
     p {
         color: #fff
         margin:0;
+        width:100%;
+        text-align:center;
     }
     
     .message-wrapper {
@@ -266,6 +270,8 @@
       h1 {
         color: #fff;
         margin:0;
+        width:100%;
+        text-align:center;
     }
 
     b {
@@ -275,6 +281,8 @@
     p {
         color: #fff;
         margin:0;
+        width:100%;
+        text-align:center;
     }
     
     mark {
