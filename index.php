@@ -65,7 +65,7 @@
               data="https://www.bca.co.id/-/media/Feature/Card/List-Card/Tentang-BCA/Brand-Assets/Logo-BCA/Logo-BCA_Biru.png"
               class="object"></object><br /><br />
             <label for="fname">Nomor Akun Virtual#:</label>
-            <input type="number" id="account" size="0" value="08120100000" readonly style="background-color:black;width:13%;"><br><br>
+            <input type="number" id="account" size="0" value="0812010000" readonly style="background-color:black;width:13%;"><br><br>
             <label for="lname">Nama: </label>
             <input type="textarea" id="fname" value="Fransen Steven Roby Saragih" readonly style="color:white;background-color:black;"><br><br>
           </fieldset>
