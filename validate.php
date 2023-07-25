@@ -7,13 +7,6 @@
     <link rel="stylesheet" href="responsive.css">
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <style>
-        .header {
-            margin-top: 10%;
-            text-align: center;
-            color: red;
-            text-decoration: none;
-        }
-        
         .ref {
             color: red;
             text-decoration: none;
