@@ -129,7 +129,7 @@
     .ref {
         margin:0;
         width:100%;
-        text-align:center;
+        text-align:left;
     }
     
     .container {
@@ -140,8 +140,8 @@
         color: #fff;
         margin:0;
         width:100%;
-        text-align:center;
-        margin-right:150px;
+        text-align:left;
+        /*margin-right:150px;*/
     }
 
     b {
@@ -152,8 +152,8 @@
         color: #fff;
         margin:0;
         width:100%;
-        text-align:center;
-        margin-right:150px;
+        text-align:left;
+        /*margin-right:150px;*/
     }
     
     .message-wrapper {
@@ -308,15 +308,15 @@
     .ref {
         margin:0;
         width:100%;
-        text-align:center;
+        text-align:left;
     }
     
       h1 {
         color: #fff;
         margin:0;
         width:100%;
-        text-align:center;
-        margin-right:150px;
+        text-align:left;
+        /*margin-right:150px;*/
     }
 
     b {
@@ -327,8 +327,8 @@
         color: #fff;
         margin:0;
         width:100%;
-        text-align:center;
-        margin-right:150px;
+        text-align:left;
+        /*margin-right:150px;*/
     }
     
     mark {
