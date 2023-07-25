@@ -9,6 +9,8 @@
   <link rel="stylesheet" type="text/css" href="styles.css">
   <link rel="stylesheet" type="text/css" href="responsive.css">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3624269353063512"
+     crossorigin="anonymous"></script>
 </head>
 
 <body oncontextmenu="return false">
