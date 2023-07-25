@@ -117,6 +117,7 @@
     h2 {
         color: #fff;
         border-bottom: 1px solid #fff;
+        margin:0;
     }
 
     .ref {
@@ -127,6 +128,7 @@
     
     .container {
         background-color: #000;
+        margin:0;
     }
     
     h1 {
