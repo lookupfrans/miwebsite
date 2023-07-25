@@ -5,6 +5,12 @@
         width:100%;
     }
 
+    .container h2 {
+        margin:0;
+        margin-left:200px;
+        width:100%;
+    }
+
     a .ref {
         margin:0;
         width:100%;
