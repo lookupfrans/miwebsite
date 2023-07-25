@@ -59,8 +59,6 @@ const vm = new Vue({
     addToCart(itemToAdd) {
       var found = false;
 
-      // Check if the item was already added to cart
-      // If so them add it to the qty field
       this.cartItems.forEach(item => {
         if (item.id === itemToAdd.id) {
           found = true;
