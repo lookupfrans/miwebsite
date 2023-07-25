@@ -5,13 +5,8 @@
         width:100%;
     }
 
-    .container h1 {
+    .message-wrapper h1 {
         font-size:30px;
-    }
-
-    .container h2 {
-        margin:0;
-        margin-left:200px;
     }
 
     a .ref {
