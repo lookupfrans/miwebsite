@@ -127,6 +127,7 @@
         color: #fff;
         border-bottom: 1px solid #fff;
         margin:0;
+        margin-left:200px;
     }
 
     .ref {
@@ -181,11 +182,6 @@
         margin:0;
         width:100%;
      }
-
-  .container h2 {
-        margin:0;
-        margin-left:200px;
-    }
 
     a .ref {
         margin:0;
@@ -297,6 +293,8 @@
     }
 
     h2 {
+        margin:0;
+        margin-left:200px;
         color: #fff;
         border-bottom: 1px solid #fff;
     }
