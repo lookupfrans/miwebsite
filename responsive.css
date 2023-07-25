@@ -15,7 +15,7 @@
     a .ref {
         margin:0;
         width:100%;
-        text-align:left;
+        text-align:center;
     }
 
     article {
@@ -140,8 +140,7 @@
         color: #fff;
         margin:0;
         width:100%;
-        text-align:left;
-        margin-left:150px;
+        text-align:center;
     }
 
     b {
@@ -152,8 +151,7 @@
         color: #fff;
         margin:0;
         width:100%;
-        text-align:left;
-        margin-left:150px;
+        text-align:center;
     }
     
     .message-wrapper {
@@ -190,7 +188,7 @@
     a .ref {
         margin:0;
         width:100%;
-        text-align:left;
+        text-align:center;
     }
 
     h4 {
@@ -308,14 +306,14 @@
     .ref {
         margin:0;
         width:100%;
-        text-align:left;
+        text-align:center;
     }
     
       h1 {
         color: #fff;
         margin:0;
         width:100%;
-        text-align:left;
+        text-align:center;
         margin-right:150px;
     }
 
@@ -327,7 +325,7 @@
         color: #fff;
         margin:0;
         width:100%;
-        text-align:left;
+        text-align:center;
         margin-left:150px;
     }
     
