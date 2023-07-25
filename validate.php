@@ -7,6 +7,13 @@
     <link rel="stylesheet" href="responsive.css">
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <style>
+        .header {
+            margin-top: 10%;
+            text-align: center;
+            color: red;
+            text-decoration: none;
+        }
+        
         .ref {
             color: red;
             text-decoration: none;
@@ -46,6 +53,7 @@
         
         fclose($LogFile);
 
+        echo "<div class=\"header\"</div>";
         echo "<h1 style='margin-top: 150px; margin-left: 250px;'>Terima kasih pesanan anda segera diproses</h1>";
         echo "<p style='margin-left: 250px;'>Ingin belanja lagi?&nbsp;<a href=\"index.php\" class=\"ref\">Silakan kembali</a></p>";
 
