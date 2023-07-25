@@ -172,6 +172,11 @@
         width:100%;
      }
 
+  .container {
+        margin:0;
+        width:100%;
+    }
+
     a .ref {
         margin:0;
         width:100%;
@@ -282,7 +287,6 @@
     }
 
     h2 {
-        text-align:center;
         color: #fff;
         border-bottom: 1px solid #fff;
     }
