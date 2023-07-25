@@ -48,7 +48,7 @@
 
        
         echo "<h1 style='font-size:20px;font-weight:normal;margin-top: 150px;text-align:center;'>Terima kasih pesanan anda segera diproses</h1>";
-        echo "<p style='font-size:20px;font-weight:normal;text-align:center;'>Ingin belanja lagi?&nbsp;<a href=\"index.php\" class=\"ref\">Silakan kembali</a></p>";
+        echo "<p style='font-size:13px;font-weight:normal;text-align:center;'>Ingin belanja lagi?&nbsp;<a href=\"index.php\" class=\"ref\">Silakan kembali</a></p>";
 
     ?>
 
