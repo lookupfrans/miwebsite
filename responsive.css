@@ -118,6 +118,7 @@
         color: #fff;
         border-bottom: 1px solid #fff;
         margin:0;
+        text-align:center;
     }
 
     .ref {
@@ -282,6 +283,7 @@
     }
 
     h2 {
+        text-align:center;
         color: #fff;
         border-bottom: 1px solid #fff;
     }
