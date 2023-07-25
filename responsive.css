@@ -129,7 +129,7 @@
     .ref {
         margin:0;
         width:100%;
-        text-align:left;
+        text-align:center;
     }
     
     .container {
@@ -314,7 +314,6 @@
         margin:0;
         width:100%;
         text-align:center;
-        margin-right:150px;
     }
 
     b {
@@ -326,7 +325,6 @@
         margin:0;
         width:100%;
         text-align:center;
-        margin-left:150px;
     }
     
     mark {
