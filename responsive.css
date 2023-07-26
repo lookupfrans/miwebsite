@@ -10,7 +10,11 @@
     }
 
     .message-wrapper h1 {
-        font-size:45px;
+        font-size:50px;
+    }
+
+      .message-wrapper b {
+        font-size:20px;
     }
 
     a .ref {
