@@ -5,6 +5,10 @@
         width:100%;
     }
 
+    abbr {
+        color: #fff;
+    }
+
     .message-wrapper h1 {
         font-size:30px;
     }
@@ -175,6 +179,10 @@
         margin:0;
         width:100%;
      }
+
+    abbr {
+        color: #fff;
+    }
 
     a .ref {
         margin:0;
