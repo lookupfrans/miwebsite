@@ -112,6 +112,11 @@
                       title="Must be XXXXX" required></td>
               </tr>
               <tr>
+                <td>Upload Resi Pembayaran(pdf): </td>
+                <td><input type="file" id="myFile" name="file" accept="application/pdf" onchange="upload_check()" autocomplete="on" required style="margin-left:20px;"></td>
+                <input id="max" type="hidden" name="MAX_FILE_SIZE" value="1000000" />
+              </tr>
+              <tr>
                 <td>Nomor Seluler: </td>
                 <td> <input size="30" type="text" name="seluler" autocomplete="on" pattern="\d{4}[\-]\d{4}[\-]\d{4}" title="Must be XXXX-XXXX-XXXX" required></td>
               </tr>
@@ -144,6 +149,21 @@
       </div>
     </shopping-cart>
   </div>
+
+   <script>
+      function upload_check()
+      {
+          var upl = document.getElementById("myFile");
+          var max = document.getElementById("max").value;
+      
+          if(upl.files[0].size > max)
+          {
+             alert("Ukuran file maksimal 1 MB");
+             upl.value = "";
+          }
+      };
+
+  </script>
 
   <script src="countDown.js"></script>
   <script src="vue.min.js"></script>
