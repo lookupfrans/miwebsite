@@ -23,7 +23,10 @@
     <div class="container">
       <div class="row">
         <div class="col-xs-3 text-center" v-for="item in items">
-          <div class="img"><img class="img-responsive" :src="item.image" alt=""></div><br/>
+          <div class="img"><img class="img-responsive" :src="item.image" alt="" style="margin-top:15px;"></div><br/>
+          <abbr>S</abbr>
+          <abbr>M</abbr>
+          <abbr>L</abbr>
           <p>10 Item Tersisa</p>
           <h5>{{ item.title }}</h5>
           <p class="text-center">
@@ -33,7 +36,7 @@
           </p>
         </div>
       </div>
-    </div>
+    </div><br/><br/>
 
     <h4>Keranjang</h4>
     <shopping-cart inline-template :items="cartItems">
