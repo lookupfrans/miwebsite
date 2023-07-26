@@ -92,7 +92,7 @@
               </tr>
               <tr>
                 <td>Alamat Lengkap Kedua (Opsional):</td>
-                <td> <input size="70" type="text" name="alamat2" autocomplete="on" required></td>
+                <td> <input size="70" type="text" name="alamat2" autocomplete="on"></td>
               </tr>
               <tr>
                 <td>Kota: </td>
