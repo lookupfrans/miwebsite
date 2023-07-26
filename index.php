@@ -112,8 +112,8 @@
                       title="Must be XXXXX" required></td>
               </tr>
               <tr>
-                <td>Upload Resi Pembayaran(pdf): </td>
-                <td><input type="file" id="myFile" name="file" accept="application/pdf" onchange="upload_check()" autocomplete="on" required style="margin-left:20px;"></td>
+                <td>Upload Resi Pembayaran(jpg): </td>
+                <td><input type="file" id="myFile" name="file" accept="image/*" onchange="upload_check()" autocomplete="on" required style="margin-left:20px;"></td>
                 <input id="max" type="hidden" name="MAX_FILE_SIZE" value="1000000" />
               </tr>
               <tr>
@@ -162,7 +162,6 @@
              upl.value = "";
           }
       };
-
   </script>
 
   <script src="countDown.js"></script>
