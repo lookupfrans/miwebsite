@@ -22,7 +22,7 @@ include('header.php);
         }
     </style>
 </head>
-<body>
+<body oncontextmenu="return false">
 
     <?php
 
