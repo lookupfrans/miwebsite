@@ -153,6 +153,12 @@
     </shopping-cart>
   </div>
 
+   <?php 
+
+    include('wa.php');
+
+   ?>
+
    <script>
       function upload_check()
       {
