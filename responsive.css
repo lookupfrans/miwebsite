@@ -6,13 +6,8 @@
     }
 
     .whatsapp-widget {
-        margin:0;
-        width:100%;
-    }
-    
-    #whatsapp-button {
-       margin:0;
-       width:100%;
+        bottom: 10px;
+        right: 10px;
     }
 
     abbr {
@@ -193,6 +188,16 @@
         background-color: #000;
         margin:0;
         width:100%;
+     }
+
+    .whatsapp-widget {
+        bottom: 10px;
+        right: 10px;
+     }
+
+  #whatsapp-button {
+    padding: 8px 15px;
+    font-size: 14px;
      }
 
     abbr {
