@@ -51,6 +51,12 @@
       merely be <mark style="color:yellow">responsible</mark> for those such items which we have mailed and yet
       have not been notified of their undelivery within this time frame.</p>
   </div>
+
+   <?php
+    include('wa.php');
+
+  ?>
+
   <br /><br />
   
   </body>
