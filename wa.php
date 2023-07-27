@@ -25,8 +25,10 @@
    </style>
 </head>
 <body>
+    <div class="container">
     <div class="whatsapp-widget">
         <a id="whatsapp-button" href="#">Chat on WhatsApp</a>
+    </div>
     </div>
 
     <script src="wa.js"></script>
