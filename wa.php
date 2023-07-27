@@ -6,29 +6,29 @@
     <title>H2O store</title>
     <style>
 
-.whatsapp-widget {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  z-index: 9999;
-}
+    .whatsapp-widget {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      z-index: 9999;
+    }
 
-#whatsapp-button {
-    font-family: 'Amatic SC', cursive;
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: #000;
-  color: #fff;
-  text-decoration: none;
-  border-radius: 5px;
-}
-        </style>
+    #whatsapp-button {
+        font-family: 'Amatic SC', cursive;
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #000;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+   </style>
 </head>
 <body>
     <div class="whatsapp-widget">
         <a id="whatsapp-button" href="#">Chat on WhatsApp</a>
     </div>
 
-    <script src="js/wa.js"></script>
+    <script src="wa.js"></script>
 </body>
 </html>
