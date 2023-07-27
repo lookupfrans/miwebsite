@@ -5,7 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>H2O store</title>
     <link rel="stylesheet" type="text/css" href="responsive.css">
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <style>
+        .whatsapp-widget {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      z-index: 9999;
+    }
+
+    #whatsapp-button {
+        font-family: 'Amatic SC', cursive;
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #000;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    </style>
 </head>
 <body>
     <div class="container">
