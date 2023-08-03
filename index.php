@@ -8,7 +8,7 @@
   <link href="https://fonts.googleapis.com/css?family=Amatic+SC&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="styles.css">
   <link rel="stylesheet" type="text/css" href="responsive.css">
-  <link rel="apple-touch-icon" sizes="180x180" href="fav.png">
+  <link rel="fav" sizes="180x180" href="fav.png">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3624269353063512"
      crossorigin="anonymous"></script>
 </head>
