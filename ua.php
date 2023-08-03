@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>H2O store</title>
   <link rel="stylesheet" href="responsive.css">
-  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="icon" type="image/png" sizes="180x180" href="fav.png">
   <style>
      .heading {
             margin-left: 250px;
