@@ -138,7 +138,7 @@
               </tr>
             </table>
           </form><br/>
-          <h6 style="text-align:right;font-size:20px;font-weight:bold;color:#fff;">&#169; H20 store</h6>
+          <h6 style="text-align:right;font-size:20px;font-weight:bold;color:#fff;">&#169; Stevenhoven store</h6>
         </div>
 
         <div id="message"></div>
