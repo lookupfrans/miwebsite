@@ -12,7 +12,7 @@ include('header.php');
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>H2O store</title>
+  <title>Stevenhoven store</title>
   <link rel="stylesheet" href="responsive.css">
   <link rel="icon" type="image/png" sizes="180x180" href="fav.png">
 </head>
