@@ -2,13 +2,13 @@
 <html lang="en">
 
 <head>
-  <title>H2O store</title>
+  <title>Stevenhoven store</title>
   <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Amatic+SC&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="styles.css">
   <link rel="stylesheet" type="text/css" href="responsive.css">
-  <link rel="icon" type="image/png" sizes="180x180" href="fav.png">
+  <link rel="icon" type="image/png" sizes="180x180" href="favo.png">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3624269353063512"
      crossorigin="anonymous"></script>
 </head>
@@ -16,7 +16,7 @@
 <body oncontextmenu="return false">
 
   <div id="app" class="container">
-    <h2>H2O store</h2>
+    <h2>Stevenhoven store</h2>
     <h3>Min 100.000</h3>
     <div class="text-right"><span class="cartcount">{{cartItems.length}} item(s) di keranjang</span></div>
 
@@ -132,7 +132,7 @@
               <tr>
                 <td>
                 <td style="font-size:20px;text-align:center;"><input type="checkbox" class="myCheck" required>Dengan
-                  menekan tombol proses, anda telah paham dan setuju terhadap <a href="pp.php"> Ketentuan dan Privasi H2O
+                  menekan tombol proses, anda telah paham dan setuju terhadap <a href="pp.php"> Ketentuan dan Privasi Stevenhoven
                     store</a></td>
                 </td>
               </tr>
