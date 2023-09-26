@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Stevenhoven Store</title>
   <link rel="stylesheet" href="responsive.css">
-  <link rel="icon" type="image/png" sizes="180x180" href="fav.png">
+  <link rel="icon" type="image/png" sizes="180x180" href="favo.png">
   <style>
      .heading {
             margin-left: 250px;
