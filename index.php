@@ -16,7 +16,7 @@
 <body oncontextmenu="return false">
 
   <div id="app" class="container">
-    <h2>H2O store</h2>
+    <h2>Stevenhoven Store</h2>
     <h3>Min 100.000</h3>
     <div class="text-right"><span class="cartcount">{{cartItems.length}} item(s) di keranjang</span></div>
 
@@ -132,13 +132,13 @@
               <tr>
                 <td>
                 <td style="font-size:20px;text-align:center;"><input type="checkbox" class="myCheck" required>Dengan
-                  menekan tombol proses, anda telah paham dan setuju terhadap <a href="pp.php"> Ketentuan dan Privasi H2O
-                    store</a></td>
+                  menekan tombol proses, anda telah paham dan setuju terhadap <a href="pp.php"> Ketentuan dan Privasi Stevenhoven
+                    Store</a></td>
                 </td>
               </tr>
             </table>
           </form><br/>
-          <h6 style="text-align:right;font-size:20px;font-weight:bold;color:#fff;">&#169; H2O store</h6>
+          <h6 style="text-align:right;font-size:20px;font-weight:bold;color:#fff;">&#169; Stevenhoven Store</h6>
         </div>
 
         <div id="message"></div>
