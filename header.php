@@ -30,6 +30,7 @@
             list-style-type: none;
             padding: 0;
             margin-left: 190px;
+            border: #fff;
         }
 
         nav li {
@@ -37,7 +38,7 @@
             margin-right: 10px;
             background: #000;
             padding: 5px 5px 5px 5px;
-            border: #fff;
+            
         }
 
          nav li:hover {
