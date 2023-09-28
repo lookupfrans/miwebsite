@@ -37,6 +37,7 @@
             margin-right: 10px;
             background: #000;
             padding: 5px 5px 5px 5px;
+            border: #fff;
         }
 
          nav li:hover {
