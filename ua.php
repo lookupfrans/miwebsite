@@ -60,13 +60,9 @@ include('header.php');
 
           <b>UNDELIVERED ITEMS</b>
           <p style="padding-bottom: 40px; text-align: justify; margin-top: 10px;">For posted items which are
-            undelivered,
-            we request notification within 2 weeks, so that the item may be tracked and recovered. Any posted items
-            which
-            remain undelivered
-            and unnotified to us, may be destroyed by the postal service within 1-2 months on non-delivery. We cannot
-            merely be <mark style="color:yellow">responsible</mark> for those such items which we have mailed and yet
-            have not been notified of their undelivery within this time frame.</p>
+            undelivered, we request notification within 2 weeks, so that the item may be tracked and recovered. Any posted items
+            which remain undelivered and unnotified to us, we will replace it with new item. We will ensure the
+            item <mark style="color:yellow">safe</mark> we will notice about time for those such items which we send to client.</p>
 
             <div style="border:1px solid #fff;">
           
@@ -113,12 +109,9 @@ include('header.php');
           <b>BARANG TIDAK TERKIRIM</b>
           <p style="padding-bottom: 40px; text-align: justify; margin-top: 10px;">Untuk item yang diposting namun tidak
             terkirim,
-            kami mengirimkan pemberitahuan dalam waktu maksimal 2 minggu melalui email atau nomor seluler yang dikirimkan, dan untuk barang tidak dapat dilacak dan dipulihkan. Setiap item
-            yang diposting yang
-            tetap tidak terkirim
-            dan tanpa pemberitahuan kepada kami, kami akan mengganti dengan item yang baru. Kita tidak bisa
-            hanya <mark style="color: yellow">bertanggung jawab</mark> atas barang-barang yang belum kami kirimkan
-            belum diberitahu tentang kegagalan pengirimannya dalam jangka waktu ini.</p>
+            kami meminta pemberitahuan dalam waktu maksimal 2 minggu, sehingga barang dapat dilacak dan dipulihkan. Setiap item
+            yang diposting, tetap tidak terkirim dan tanpa pemberitahuan kepada kami, kami akan mengganti dengan item yang baru. Kami akan memastikan barang dalam keadaan
+            <mark style="color: yellow">aman</mark>. Kami juga akan memberitahu waktu barang akan sampai kepada klien.</p>
 
         <div style="border:1px solid #fff;">
           
