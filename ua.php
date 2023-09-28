@@ -74,7 +74,7 @@ include('header.php');
 
           <h1 style="margin-top: 100px; text-align: center; font-family: 'Cormorant',; padding-top: 0px; opacity: 0.5;">
             Privacy Policy</h1>
-          <hr>
+          <hr><br/><br/>
           <b style="padding-left:0px;">INFORMATION</b>
           <p style="margin-top: 5px; text-align: justify; margin-left:0px;;padding-top:5px;">We record names and
             contact email
@@ -127,7 +127,7 @@ include('header.php');
               <h1
                 style="margin-top: 100px; text-align: center; font-family: 'Cormorant',; padding-top: 0px; opacity: 0.5;">
                 Kebijakan Privasi</h1>
-              <hr>
+              <hr><br/><br/>
               <b style="padding-left:0px;">INFORMASI</b>
               <p style="margin-top: 5px; text-align: justify; margin-left:0px;;padding-top:5px;">Kami mencatat nama dan
                 Kontak Email
