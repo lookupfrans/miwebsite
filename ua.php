@@ -132,7 +132,7 @@ include('header.php');
             Persetujuan Pengguna</h1>
           <hr>
           <b>DISKLAIMER</b>
-          <p style="margin-top: 0px; padding-bawah: 50px;padding-top:10px;">
+          <p style="text-align: justify;margin-top: 0px; padding-bawah: 50px;padding-top:10px;">
             Harap <mark style="color: yellow">perhatikan</mark> bahwa warna produk kami mungkin terlihat sedikit berbeda
             tampilannya di perangkat― dan warnanya mungkin berbeda dari satu batch ke batch berikutnya. Karena sifatnya
             Dari warna-warna hidup dari pewarna alami kita, warna dapat berubah dan matang seiring berjalannya waktu.
