@@ -39,38 +39,6 @@ include('header.php');
     .ref:hover {
       border-bottom: 1px solid;
     }
-
-    header {
-      color: #fff;
-      padding: 10px;
-      float: right;
-    }
-
-    nav ul {
-      list-style-type: none;
-      padding: 0;
-    }
-
-    nav li {
-      display: inline;
-      margin-right: 10px;
-    }
-
-    nav a {
-      text-decoration: none;
-      color: #fff;
-      
-      margin: 0 5px 0 5px;
-    }
-
-    .ref {
-  color: red;
-  text-decoration: none;
-}
-
-.ref:hover {
-  border-bottom: 1px solid; 
-}
   </style>
 
 <body oncontextmenu="return false">
