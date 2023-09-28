@@ -104,7 +104,8 @@ include('header.php');
             Dari warna-warna hidup dari pewarna alami kita, warna dapat berubah dan matang seiring berjalannya waktu.
             Setelah pesanan kain meteran kami dipotong dari gulungan, kami tidak dapat lagi menawarkan <tanda
               style="color:kuning">pengembalian</mark> atau <mark style="color:kuning">pengembalian dana</mark>.</p>
-
+            <br/><br/><br/>
+              
           <b>BARANG TIDAK TERKIRIM</b>
           <p style="padding-bottom: 40px; text-align: justify; margin-top: 10px;">Untuk item yang diposting namun tidak
             terkirim,
