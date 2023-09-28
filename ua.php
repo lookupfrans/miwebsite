@@ -62,6 +62,15 @@ include('header.php');
       
       margin: 0 5px 0 5px;
     }
+
+    .ref {
+  color: red;
+  text-decoration: none;
+}
+
+.ref:hover {
+  border-bottom: 1px solid; 
+}
   </style>
 
 <body oncontextmenu="return false">
@@ -176,6 +185,8 @@ include('header.php');
 
         <br /><br />
 
+              <?php echo "<p style='margin-left:0px;text-align:center;'>&nbsp;<a href=\"index.php\" class=\"ref\">Silakan kembali</a></p>"; ?>
+
         <script src="lang.js"></script>
 
         <?php
@@ -183,7 +194,7 @@ include('header.php');
 
         ?>
 
-        <php echo "<p style='margin-left: 390px;'>&nbsp;<a href=" index.php" class="ref">Silakan kembali</a></p>
+        
 </body>
 
 </html>
