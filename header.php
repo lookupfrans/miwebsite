@@ -30,7 +30,7 @@
             list-style-type: none;
             padding: 0;
             margin-left: 190px;
-            
+            background: #000;
         }
 
         nav li {
