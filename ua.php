@@ -68,6 +68,10 @@ include('header.php');
             merely be <mark style="color:yellow">responsible</mark> for those such items which we have mailed and yet
             have not been notified of their undelivery within this time frame.</p>
 
+            <div style="border:1px solid #fff;">
+          
+        </div>
+
           <h1 style="margin-top: 100px; text-align: center; font-family: 'Cormorant',; padding-top: 0px; opacity: 0.5;">
             Privacy Policy</h1>
           <hr>
