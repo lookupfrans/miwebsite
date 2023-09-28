@@ -55,7 +55,7 @@
 
 <body>
     <div class="container">
-        <h2>Stevenhoven store</h2>
+        <h2>Stevenhoven Store</h2>
 
         <nav>
             <ul>
