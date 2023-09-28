@@ -132,7 +132,7 @@
               <tr>
                 <td>
                 <td style="font-size:20px;text-align:center;"><input type="checkbox" class="myCheck" required>Dengan
-                  menekan tombol proses, anda telah paham dan setuju terhadap <a href="pp.php"> Ketentuan dan Privasi Stevenhoven
+                  menekan tombol proses, anda telah paham dan setuju terhadap <a href="ua.php"> Ketentuan dan Privasi Stevenhoven
                     Store</a></td>
                 </td>
               </tr>
