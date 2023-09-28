@@ -149,6 +149,7 @@ include('header.php');
             belum diberitahu tentang kegagalan pengirimannya dalam jangka waktu ini.</p>
 
         <div style="border:1px solid #fff;">
+          
         </div>
               <h1
                 style="margin-top: 100px; text-align: center; font-family: 'Cormorant',; padding-top: 0px; opacity: 0.5;">
