@@ -128,9 +128,9 @@ include('header.php');
                 pendanaan (kesepakatan bisnis, peluang kemitraan, investasi), produk/layanan (pembaruan, baru atau dihapus) atau
                 pasar penelitian (survei, penelitian kualitas & kuantitas, umpan balik, penilaian dan ulasan).
                 Jangan khawatir, kami mengumpulkan dan menyimpan informasi ini dengan aman. Kami tidak membagikan
-                informasi ini kepada orang lain. Meskipun demikian, itu dapat diakses oleh staf atau asisten yang membantu media sosial kami dalam
+                informasi ini kepada orang lain. Meskipun demikian, hal itu dapat diakses oleh staf atau asisten yang membantu media sosial kami dalam
                 pemasaran, namun kami tidak mengizinkan siapa pun mengumpulkan atau menyimpan informasi ini. Data ini disimpan
-                bersama kami tanpa batas waktu, atau sampai klien mungkin ingin menghapusnya informasi kontak mereka dari daftar kami, yang kemudian akan dihapus dari file kami.
+                bersama kami tanpa batas waktu, atau sampai klien mungkin ingin menghapus informasi kontak mereka dari daftar kami, yang kemudian akan dihapus dari file kami.
                 Jika Anda ingin berhenti berlangganan dari aktivitas kami, Anda dapat melakukannya kapan saja.</p>
             </div>
           </div>
