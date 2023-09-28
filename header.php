@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>H2O store</title>
+    <title>Stevenhoven store</title>
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Amatic+SC&amp;display=swap" rel="stylesheet">
     <style>
@@ -34,21 +34,26 @@
         nav li {
             display: inline;
             margin-right: 10px;
-            background: brown;
+            background: #000;
             padding: 5px 5px 5px 5px;
+        }
+
+         nav li:hover {
+            background: brown;
         }
 
         nav a {
             text-decoration: none;
             color: #fff;
             font-size: 10px;
+            font-family: montserrat, sans-serif;
         }
     </style>
 </head>
 
 <body>
     <div class="container">
-        <h2>H2O store</h2>
+        <h2>Stevenhoven store</h2>
 
         <nav>
             <ul>
