@@ -104,20 +104,19 @@ include('header.php');
           <b>DISKLAIMER</b>
           <p style="text-align: justify;margin-top: 0px; padding-bawah: 50px;padding-top:10px;">
             Harap <mark style="color: yellow">perhatikan</mark> bahwa warna produk kami mungkin terlihat sedikit berbeda
-            tampilannya di perangkat― dan warnanya mungkin berbeda dari satu batch ke batch berikutnya. Karena sifatnya
-            Dari warna-warna hidup dari pewarna alami kita, warna dapat berubah dan matang seiring berjalannya waktu.
-            Setelah pesanan kain meteran kami dipotong dari gulungan, kami tidak dapat lagi menawarkan <tanda
+            tampilannya di layar― dan warnanya mungkin berbeda dari persediaan saat ini ke persediaan berikutnya. Karena sifatnya,
+            dari warna-warna hidup material pewarna alami, warna dapat berubah dan sempurna seiring berjalannya waktu.
+            Sekali memesan pakaian, ukuran pakaian yang diminta telah dipotong dari gulungan, kami tidak dapat lagi menawarkan <tanda
               style="color:kuning">pengembalian</mark> atau <mark style="color:kuning">pengembalian dana</mark>.</p>
             <br/><br/><br/>
               
           <b>BARANG TIDAK TERKIRIM</b>
           <p style="padding-bottom: 40px; text-align: justify; margin-top: 10px;">Untuk item yang diposting namun tidak
             terkirim,
-            kami meminta pemberitahuan dalam waktu 2 minggu, sehingga barang dapat dilacak dan dipulihkan. Setiap item
+            kami mengirimkan pemberitahuan dalam waktu maksimal 2 minggu melalui email atau nomor seluler yang dikirimkan, dan untuk barang tidak dapat dilacak dan dipulihkan. Setiap item
             yang diposting yang
             tetap tidak terkirim
-            dan tanpa pemberitahuan kepada kami, dapat dimusnahkan oleh layanan pos dalam waktu 1-2 bulan jika tidak
-            terkirim. Kita tidak bisa
+            dan tanpa pemberitahuan kepada kami, kami akan mengganti dengan item yang baru. Kita tidak bisa
             hanya <mark style="color: yellow">bertanggung jawab</mark> atas barang-barang yang belum kami kirimkan
             belum diberitahu tentang kegagalan pengirimannya dalam jangka waktu ini.</p>
 
@@ -130,26 +129,16 @@ include('header.php');
               <hr><br/><br/>
               <b style="padding-left:0px;">INFORMASI</b>
               <p style="margin-top: 5px; text-align: justify; margin-left:0px;;padding-top:5px;">Kami mencatat nama dan
-                Kontak Email
-                alamat melalui kotak pendaftaran email dan kotak pop-up di situs web kami.
-                Kami menggunakan informasi ini untuk mengirimkan email sesekali untuk memperbarui pengikut kami dengan
-                buletin (blog
-                artikel,
-                pengumuman, laporan), promosi (penjualan, penawaran, hadiah, penawaran), kemitraan dan kerja sama
-                pendanaan
-                (kesepakatan bisnis, peluang kemitraan, investasi), produk/layanan (pembaruan, baru atau dihapus) atau
-                pasar
-                penelitian (survei, penelitian kualitas & kuantitas, umpan balik, penilaian dan ulasan).
+                alamat email melalui formulir informasi pengiriman dan kotak pop-up di situs web kami.
+                Kami menggunakan informasi ini untuk mengirimkan informasi aktivitas kami sesekali untuk memperbarui pengikut kami dengan
+                buletin (blog artikel, pengumuman, laporan), promosi (penjualan, penawaran, hadiah, penawaran), kemitraan dan kerja sama
+                pendanaan (kesepakatan bisnis, peluang kemitraan, investasi), produk/layanan (pembaruan, baru atau dihapus) atau
+                pasar penelitian (survei, penelitian kualitas & kuantitas, umpan balik, penilaian dan ulasan).
                 Jangan khawatir, kami mengumpulkan dan menyimpan informasi ini dengan aman. Kami tidak membagikan
-                informasi ini kepada
-                orang lain. Meskipun demikian, itu dapat diakses oleh staf atau asisten yang membantu media sosial kita
-                pemasaran,
-                namun kami tidak mengizinkan siapa pun mengumpulkan atau menyimpan informasi ini. Data ini disimpan
-                bersama kami
-                tanpa batas waktu,
-                atau sampai klien mungkin ingin menghapusnya
-                informasi kontak mereka dari milis kami, yang kemudian akan dihapus dari file kami.
-                Jika Anda ingin berhenti berlangganan dari milis kami, Anda dapat melakukannya kapan saja.</p>
+                informasi ini kepada orang lain. Meskipun demikian, itu dapat diakses oleh staf atau asisten yang membantu media sosial kami dalam
+                pemasaran, namun kami tidak mengizinkan siapa pun mengumpulkan atau menyimpan informasi ini. Data ini disimpan
+                bersama kami tanpa batas waktu, atau sampai klien mungkin ingin menghapusnya informasi kontak mereka dari daftar kami, yang kemudian akan dihapus dari file kami.
+                Jika Anda ingin berhenti berlangganan dari aktivitas kami, Anda dapat melakukannya kapan saja.</p>
             </div>
           </div>
         </div>
