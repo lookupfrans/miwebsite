@@ -49,7 +49,7 @@ include('header.php');
         <div id="agreement-en">
           <h1 style="margin-top: 0px; text-align: center; font-family: 'Cormorant',; padding-top: 0px; opacity: 0.5;">
             User Agreement</h1>
-          <hr>
+          <hr><br/><br/>
           <b>DISCLAIMER</b>
           <p style="text-align: justify; margin-top: 0px; padding-bottom: 50px;padding-top:10px;">
             Please be <mark style="color:yellow">aware</mark> that our products’ colours may look slightly different to
@@ -100,7 +100,7 @@ include('header.php');
         <div id="agreement-es" style="display: none;">
           <h1 style="margin-top: 0px; text-align: center; font-family: 'Cormorant',; padding-top: 0px; opacity: 0.5;">
             Persetujuan Pengguna</h1>
-          <hr>
+          <hr><br/><br/>
           <b>DISKLAIMER</b>
           <p style="text-align: justify;margin-top: 0px; padding-bawah: 50px;padding-top:10px;">
             Harap <mark style="color: yellow">perhatikan</mark> bahwa warna produk kami mungkin terlihat sedikit berbeda
