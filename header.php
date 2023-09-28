@@ -4,10 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Stevenhoven Store</title>
+    <title>H2O store</title>
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Amatic+SC&amp;display=swap" rel="stylesheet">
-    <link rel="icon" type="image/png" sizes="180x180" href="favo.png">
     <style>
         h2 {
             font-size: 30px;
@@ -25,12 +24,38 @@
             padding: 20px;
             max-width: 850px;
         }
+
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+            margin-left: 190px;
+        }
+
+        nav li {
+            display: inline;
+            margin-right: 10px;
+            background: brown;
+            padding: 5px 0 5px 0;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #fff;
+            font-size: 10px;
+        }
     </style>
 </head>
 
 <body>
     <div class="container">
-        <h2>Stevenhoven Store</h2>
+        <h2>H2O store</h2>
+
+        <nav>
+            <ul>
+                <li><a href="#" id="en">English</a></li>
+                <li><a href="#" id="es">Indonesia</a></li>
+            </ul>
+        </nav>
     </div>
 </body>
 
