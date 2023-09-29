@@ -42,7 +42,7 @@
         }
 
          nav li:hover {
-             background: brown;
+             background: #000;
         }
 
         nav a {
