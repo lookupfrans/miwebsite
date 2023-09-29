@@ -99,7 +99,7 @@ include('header.php');
           <hr><br/><br/>
           <b>DISKLAIMER</b>
           <p style="text-align: justify;margin-top: 0px; padding-bawah: 50px;padding-top:10px;">
-            Harap <mark style="color: yellow">perhatikan</mark> bahwa warna produk kami mungkin terlihat sedikit berbeda
+            Mohon <mark style="color: yellow">perhatikan</mark> bahwa warna produk kami mungkin terlihat sedikit berbeda
             tampilannya di layar― dan warnanya mungkin berbeda dari persediaan saat ini ke persediaan berikutnya. Karena sifatnya,
             dari warna-warna hidup material pewarna alami, warna dapat berubah dan sempurna seiring berjalannya waktu.
             Sekali memesan pakaian, ukuran pakaian yang diminta telah dipotong dari gulungan, kami tidak dapat lagi menawarkan <tanda
