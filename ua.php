@@ -61,7 +61,7 @@ include('header.php');
           <b>UNDELIVERED ITEMS</b>
           <p style="padding-bottom: 40px; text-align: justify; margin-top: 10px;">For posted items which are
             undelivered, we request notification within 2 weeks, so that the item may be tracked and recovered. Any posted items
-            which remain undelivered and unnotified to us, we will replace it with new item. We will ensure the
+            which remain undelivered and unnotified to us by postoffice accidentally, we would do replace it with new item. We will ensure the
             item <mark style="color:yellow">safe</mark> we will notice about time for those such items which we send to client.</p>
 
             <div style="border:1px solid #fff;">
