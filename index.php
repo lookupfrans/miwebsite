@@ -64,13 +64,15 @@
           <div id="countDown"></div>
           <div id="expired"></div><br /><br />
           <fieldset>
-            <object
-              data="https://www.bca.co.id/-/media/Feature/Card/List-Card/Tentang-BCA/Brand-Assets/Logo-BCA/Logo-BCA_Biru.png"
-              class="object"></object><br /><br />
-            <label for="fname">Nomor Akun Virtual#:</label>
-            <input type="number" id="account" size="0" value="0812010000" readonly style="background-color:black;width:13%;"><br><br>
-            <label for="lname">Nama: </label>
-            <input type="textarea" id="fname" value="Fransen Steven Roby Saragih" readonly style="color:white;background-color:black;"><br><br>
+            
+             <object data="barcode.jpg" width="100" height="100" style="margin-top:40px;" alt="Downloadable Image"
+              id="clickableImage"></object>
+              <br />
+          
+            <a href="barcode.jpg" download="barcode.jpg"
+              style="color:red;font-size:normal;width: 20px;height: 20px;text-align:center;position:relative;">Download</a>
+            <br><br/>
+            
           </fieldset>
           <form action="validate.php" method="post" onsubmit="return validate(this);">
             <table border="0" cellspacing="1" cellpadding="3">
