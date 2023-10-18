@@ -139,7 +139,7 @@ include('header.php');
 
         <br /><br />
 
-              <?php echo "<p style='margin-left:0px;text-align:center;'>&nbsp;<a href=\"index.php\" class=\"ref\">Silakan kembali</a></p>"; ?>
+              <?php echo "<p style='margin-left:0px;text-align:center;'>&nbsp;<a href=\"index.php\" class=\"ref\">Kembali</a></p>"; ?>
 
         <script src="lang.js"></script>
 
