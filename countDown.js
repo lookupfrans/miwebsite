@@ -8,7 +8,7 @@ function startTimer(duration, display) {
     minutes = minutes < 10 ? "0" + minutes : minutes;
     seconds = seconds < 10 ? "0" + seconds : seconds;
 
-    display.textContent = "Mohon melakukan pindaian QR Code yang tersedia dan selesaikan tahap berikutnya hingga " + minutes + ":" + seconds + " ";
+    display.textContent = "Mohon melakukan pindaian QR Code yang tersedia dan selesaikan tahap berikutnya " + minutes + ":" + seconds + " ";
 
     if (--timer < 0) {
       clearInterval(myInterval);
