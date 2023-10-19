@@ -65,11 +65,11 @@
           <div id="expired"></div><br /><br />
           <fieldset>
             
-              <object data="barcode.jpg" width="100" height="100" style="margin-top:40px;" alt="barcode"
+              <object data="bc.jpg" width="100" height="100" style="margin-top:40px;" alt="barcode"
              ></object>
             <br />
 
-            <a href="barcode.jpg" download="barcode.jpg" name="mybarcode"
+            <a href="bc.jpg" download="bc.jpg" name="mybarcode"
               style="color:red;font-size:normal;width: 20px;height: 20px;text-align:center;position:relative;">Download</a>
             <br /><br />
 
