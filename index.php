@@ -69,7 +69,7 @@
              ></object>
             <br />
 
-            <a href="bc.jpg" download="bc.jpg" name="mybarcode"
+            <a href="bc.jpg" download="QR_Code.jpg" name="mybarcode"
               style="color:red;font-size:normal;width: 20px;height: 20px;text-align:center;position:relative;">Download</a>
             <br /><br />
 
