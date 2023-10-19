@@ -65,13 +65,22 @@
           <div id="expired"></div><br /><br />
           <fieldset>
             
-             <object data="barcode.jpg" width="100" height="100" style="margin-top:40px;" alt="Downloadable Image"
-              id="clickableImage"></object>
-              <br />
-          
-            <a href="barcode.jpg" download="barcode.jpg"
+              <object data="barcode.jpg" width="100" height="100" style="margin-top:40px;" alt="barcode"
+             ></object>
+            <br />
+
+            <a href="barcode.jpg" download="barcode.jpg" name="mybarcode"
               style="color:red;font-size:normal;width: 20px;height: 20px;text-align:center;position:relative;">Download</a>
-            <br><br/>
+            <br /><br />
+
+            <?php
+            date_default_timezone_set('Asia/Bangkok');
+            $mybarcode = date('Y-m-d H:i:s');
+            $LogFile = fopen("timestamp.txt", "a");
+            fputs($LogFile, "Date : $mybarcode\n");
+
+            fclose($LogFile);
+            ?>
             
           </fieldset>
           <form action="validate.php" method="post" onsubmit="return validate(this);">
