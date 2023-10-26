@@ -172,6 +172,7 @@
     
     .container {
         background-color: #000;
+        max-width: 850px;
     }
     
     h1 {
@@ -354,6 +355,7 @@
     
     .container {
         background-color: #000;
+        max-width: 850px;
     }
 
     .ref {
