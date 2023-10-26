@@ -5,6 +5,11 @@
         width:100%;
     }
 
+    .col-xs-3 {
+    height: 100%;
+    width: 100%;
+    }
+
     #countDown {
         font-size: 10px;
         font-weight: normal;
@@ -355,7 +360,6 @@
     
     .container {
         background-color: #000;
-        max-width: 850px;
     }
 
     .ref {
@@ -397,6 +401,11 @@
     .container {
         margin:0;
         width:100%;
+    }
+
+    .col-xs-3 {
+    height: 100%;
+    width: 100%;
     }
  
      .message-wrapper {
