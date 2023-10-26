@@ -5,8 +5,9 @@ const products = [
   { id: 4, title: 'T-S - STARCROOS', price: 300000, qty: 1, image: 'pic18.jpg' },
   { id: 5, title: 'THRASHER', price: 100000, qty: 1, image: 'bg4.jpg' },
   { id: 6, title: 'THRASHER', price: 100000, qty: 1, image: 'bg5.jpg' },
-  { id: 7, title: 'VANS SLIP ON BLK/WHT', price: 1000000, qty: 1, image: 'bg25.jpg' },
-  { id: 8, title: 'DOCMART', price: 1000000, qty: 1, image: 'bg22.jpg' }
+  { id: 7, title: 'VANS SLIP ON BLK/WHT', price: 1150000, qty: 1, image: 'bg25.jpg' },
+  { id: 8, title: 'DOCMART', price: 2760000, qty: 1, image: 'bg22.jpg' },
+  { id: 8, title: 'VANS SLIP ON LST/WHT', price: 1150000, qty: 1, image: 'bg23.jpg' }
 ];
 
 function formatNumber(n, c, d, t) {
