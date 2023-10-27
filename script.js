@@ -5,10 +5,10 @@ const products = [
   { id: 4, title: 'T-S - STARCROOS', price: 300000, qty: 1, image: 'pic18.jpg' },
   { id: 5, title: 'THRASHER', price: 100000, qty: 1, image: 'bg4.jpg' },
   { id: 6, title: 'THRASHER', price: 100000, qty: 1, image: 'bg5.jpg' },
-  { id: 7, title: 'VANS SLIP ON BLK/WHT', price: 1150000, qty: 1, image: 'bg25.jpg' },
-  { id: 8, title: 'DOCMART', price: 2760000, qty: 1, image: 'bg22.jpg' },
-  { id: 9, title: 'VANS SLIP ON LST/WHT', price: 1150000, qty: 1, image: 'bg23.jpg' },
-  { id: 10, title: 'CONVERSE BLCK/WHT', price: 1150000, qty: 1, image: 'bg26.jpg' }
+  { id: 7, title: 'CROZZED', price: 250000, qty: 1, image: 'img1.jpg' },
+  { id: 8, title: 'MUSK SHIRT', price: 436000, qty: 1, image: 'img2.jpg' },
+  { id: 9, title: 'HALLOWEEN', price: 250000, qty: 1, image: 'img3.jpg' },
+  { id: 10, title: 'ALKALINE TRIO', price: 250000, qty: 1, image: 'img4.jpg' }
 ];
 
 function formatNumber(n, c, d, t) {
