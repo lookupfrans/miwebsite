@@ -7,8 +7,8 @@ const products = [
   { id: 6, title: 'THRASHER', price: 100000, qty: 1, image: 'bg5.jpg' },
   { id: 7, title: 'VANS SLIP ON BLK/WHT', price: 1150000, qty: 1, image: 'bg25.jpg' },
   { id: 8, title: 'DOCMART', price: 2760000, qty: 1, image: 'bg22.jpg' },
-  { id: 8, title: 'VANS SLIP ON LST/WHT', price: 1150000, qty: 1, image: 'bg23.jpg' },
-  { id: 8, title: 'CONVERSE BLCK/WHT', price: 1150000, qty: 1, image: 'bg26.jpg' }
+  { id: 9, title: 'VANS SLIP ON LST/WHT', price: 1150000, qty: 1, image: 'bg23.jpg' },
+  { id: 10, title: 'CONVERSE BLCK/WHT', price: 1150000, qty: 1, image: 'bg26.jpg' }
 ];
 
 function formatNumber(n, c, d, t) {
