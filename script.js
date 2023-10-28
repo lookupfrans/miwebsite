@@ -8,7 +8,7 @@ const products = [
   { id: 7, title: 'CROZZED', price: 250000, qty: 1, image: 'img1.jpg' },
   { id: 8, title: 'STIGMA HOODIE', price: 648000, qty: 1, image: 'img2.jpg' },
   { id: 9, title: 'WARZONE HOODIE', price: 732000, qty: 1, image: 'img3.jpg' },
-  { id: 10, title: 'ALKALINE TRIO', price: 200000, qty: 1, image: 'img3.jpg' }
+  { id: 10, title: 'ALKALINE TRIO', price: 200000, qty: 1, image: 'img4.jpg' }
 ];
 
 function formatNumber(n, c, d, t) {
