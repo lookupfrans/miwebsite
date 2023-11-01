@@ -18,10 +18,6 @@ include('header.php');
       margin-top: 10%;
     }
 
-      p {
-       color: yellow;
-    }
-
     .heading1 {
       margin-left: 250px;
     }
