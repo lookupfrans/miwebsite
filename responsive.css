@@ -6,8 +6,7 @@
     }
 
     .image-title {
-        width: 100%;
-        height: 30px;
+        position: absolute;
     }
 
     #countDown {
@@ -406,9 +405,9 @@
         margin: 0;
     }
 
+   
     .image-title {
-        width: 100%;
-        height: 30px;
+        position: absolute;
     }
  
      .message-wrapper {
