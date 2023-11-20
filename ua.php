@@ -39,9 +39,45 @@ include('header.php');
     .ref:hover {
       border-bottom: 1px solid;
     }
+
+     .content {
+  display: none;
+}
+
+.loader > .image-title {
+  height: 200px;
+  width: 100px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  /*border-top-color: #2a88e6;
+  border: 15px solid #45474b;*/
+  /*position: absolute;*/
+  background-image: url(../img/jpg6.jpg);
+  margin: auto;
+  margin-bottom: 400px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border-radius: 0;
+  animation: fadeOut 1s infinite linear;
+  /*-webkit-animation-duration: 5s;animation-duration: 1s;*/
+  /*-webkit-animation-fill-mode: both;animation-fill-mode: both;*/
+}
+
+@keyframes fadeOut {
+  0% {opacity: 1;}
+  100% {opacity: 0;} 
+}
   </style>
 
 <body oncontextmenu="return false">
+  <div class="loader" style="text-align:center;height:100vh; width:100vw;overflow:hidden;background:#000;">
+    <img class="image-title" alt="" src="logo.jpg" style="width: 20%; height:20%;position:absolute"/>
+    <div></div>
+  </div>
+  <div class="content">
 
   <div class="message-wrapper" style="padding-right:200px;padding-left:200px;margin-left:0px;">
     <div class="container">
@@ -147,6 +183,13 @@ include('header.php');
         include('wa.php');
 
         ?>
+
+          <script>
+            $(window).on('load', function () {
+              $(".loader").fadeOut(5000);
+              $(".content").fadeIn(5000);
+            });
+          </script>
 
         
 </body>
