@@ -5,8 +5,15 @@
         width:100%;
     }
 
-    .image-title {
+      .loader {
         position: absolute;
+        margin: 0;
+    }
+
+    .image-title {
+        width: 150%;
+        height: 100%;
+        top: 0;
     }
 
     #countDown {
@@ -408,6 +415,14 @@
    
     .image-title {
         position: absolute;
+        margin: 0;
+    }
+
+    
+    .image-title {
+        width: 150%;
+        height: 100%;
+        top: 0;
     }
  
      .message-wrapper {
