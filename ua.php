@@ -74,11 +74,11 @@ include('header.php');
   </style>
 
 <body oncontextmenu="return false">
-  <div class="loader" style="text-align:center;height:100vh; width:100vw;overflow:hidden;background:#000;">
+  <!--<div class="loader" style="text-align:center;height:100vh; width:100vw;overflow:hidden;background:#000;">
     <img class="image-title" alt="" src="logo.jpg" style="width: 20%; height:20%;position:absolute"/>
     <div></div>
   </div>
-  <div class="content">
+  <div class="content">-->
 
   <div class="message-wrapper" style="padding-right:200px;padding-left:200px;margin-left:0px;">
     <div class="container">
@@ -185,12 +185,12 @@ include('header.php');
 
         ?>
 
-          <script>
-            $(window).on('load', function () {
-              $(".loader").fadeOut(5000);
-              $(".content").fadeIn(5000);
-            });
-          </script>
+          //<script>
+            //$(window).on('load', function () {
+              //$(".loader").fadeOut(5000);
+              //$(".content").fadeIn(5000);
+            //});
+          //</script>
 
         
 </body>
