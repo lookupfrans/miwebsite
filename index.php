@@ -9,11 +9,49 @@
   <link rel="stylesheet" type="text/css" href="styles.css">
   <link rel="stylesheet" type="text/css" href="responsive.css">
   <link rel="icon" type="image/png" sizes="180x180" href="favo.png">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3624269353063512"
      crossorigin="anonymous"></script>
+    <style>
+      .content {
+  display: none;
+}
+
+.loader > .image-title {
+  height: 200px;
+  width: 100px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  /*border-top-color: #2a88e6;
+  border: 15px solid #45474b;*/
+  /*position: absolute;*/
+  background-image: url(../img/jpg6.jpg);
+  margin: auto;
+  margin-bottom: 400px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border-radius: 0;
+  animation: fadeOut 1s infinite linear;
+  /*-webkit-animation-duration: 5s;animation-duration: 1s;*/
+  /*-webkit-animation-fill-mode: both;animation-fill-mode: both;*/
+}
+
+@keyframes fadeOut {
+  0% {opacity: 1;}
+  100% {opacity: 0;} 
+}
+      </style>
 </head>
 
 <body oncontextmenu="return false">
+  <div class="loader" style="text-align:center;height:100vh; width:100vw;overflow:hidden;background:#000;">
+    <img class="image-title" alt="" src="logo.jpg" style="width: 20%; height:30%;position:absolute"/>
+    <div></div>
+  </div>
+  <div class="content">
 
   <div id="app" class="container">
     <h2>Stevenhoven Store</h2>
@@ -183,6 +221,14 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   <script src="bootstrap.min.js"></script>
   <script src="script.js"></script>
+
+     <script>
+    $(window).on('load', function () {
+      $(".loader").fadeOut(5000);
+      $(".content").fadeIn(5000);
+    });
+  </script>
+
 </body>
 
 </html>
