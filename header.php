@@ -54,41 +54,41 @@
         }
 
          .content {
-  display: none;
-}
-
-.loader > .image-title {
-  height: 200px;
-  width: 100px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  /*border-top-color: #2a88e6;
-  border: 15px solid #45474b;*/
-  /*position: absolute;*/
-  background-image: url(../img/jpg6.jpg);
-  margin: auto;
-  margin-bottom: 400px;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  border-radius: 0;
-  animation: fadeOut 1s infinite linear;
-  /*-webkit-animation-duration: 5s;animation-duration: 1s;*/
-  /*-webkit-animation-fill-mode: both;animation-fill-mode: both;*/
-}
-
-@keyframes fadeOut {
-  0% {opacity: 1;}
-  100% {opacity: 0;} 
-}
+              display: none;
+        }
+    
+        .loader > .image-title {
+          height: 200px;
+          width: 100px;
+          justify-content: center;
+          align-items: center;
+          text-align: center;
+          /*border-top-color: #2a88e6;
+          border: 15px solid #45474b;*/
+          /*position: absolute;*/
+          background-image: url(../img/jpg6.jpg);
+          margin: auto;
+          margin-bottom: 400px;
+          top: 0;
+          bottom: 0;
+          left: 0;
+          right: 0;
+          border-radius: 0;
+          animation: fadeOut 1s infinite linear;
+          /*-webkit-animation-duration: 5s;animation-duration: 1s;*/
+          /*-webkit-animation-fill-mode: both;animation-fill-mode: both;*/
+        }
+        
+        @keyframes fadeOut {
+          0% {opacity: 1;}
+          100% {opacity: 0;} 
+        }
     </style>
 </head>
 
 <body>
     <div class="loader" style="text-align:center;height:100vh; width:100vw;overflow:hidden;background:#000;">
-    <img class="image-title" alt="" src="jpg6.jpg" style="width: 20%; height:20%;position:absolute"/>
+    <img class="image-title" alt="" src="logo.jpg" style="width: 20%; height:20%;position:absolute"/>
     <div></div>
   </div>
   <div class="content">
