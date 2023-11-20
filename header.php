@@ -15,7 +15,7 @@
             border-bottom: 1px solid #000;
             padding-bottom: 5px;
             font-family: 'Amatic SC', sans-serif;
-            font-size: 60px;
+            font-size: 90px;
             font-weight: bold;
             margin-left: 190px;
             width: 100%;
@@ -93,7 +93,7 @@
   </div>
   <div class="content">
     <div class="container">
-        <h2>Stevenhoven Store</h2>
+        <h2 style="font-size:90px;">Stevenhoven Store</h2>
 
         <nav>
             <ul>
