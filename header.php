@@ -15,7 +15,7 @@
             border-bottom: 1px solid #000;
             padding-bottom: 5px;
             font-family: 'Amatic SC', sans-serif;
-            font-size: 45px;
+            font-size: 60px;
             font-weight: bold;
             margin-left: 190px;
             width: 100%;
