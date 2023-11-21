@@ -74,7 +74,7 @@
           </p>
         </div>
       </div>
-    </div><br/><br/><br/>
+    </div><br/><br/>
 
     <h4>Keranjang</h4>
     <shopping-cart inline-template :items="cartItems">
