@@ -48,7 +48,7 @@
 
 <body oncontextmenu="return false">
   <div class="loader" style="text-align:center;height:100vh; width:100vw;overflow:hidden;background:#000;">
-    <img class="image-title" alt="" src="mylogo.jpg" style="width: 20%; height:30%;position:absolute"/>
+    <img class="image-title" alt="" src="mylogo.png" style="width: 20%; height:30%;position:absolute"/>
     <div></div>
   </div>
   <div class="content">
