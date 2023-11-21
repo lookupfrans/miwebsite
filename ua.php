@@ -54,7 +54,7 @@ include('header.php');
   /*border-top-color: #2a88e6;
   border: 15px solid #45474b;*/
   /*position: absolute;*/
-  background-image: url(../img/jpg6.jpg);
+  /*background-image: url(../img/jpg6.jpg);*/
   margin: auto;
   margin-bottom: 400px;
   top: 0;
@@ -75,7 +75,7 @@ include('header.php');
 
 <body oncontextmenu="return false">
   <div class="loader" style="text-align:center;height:100vh; width:100vw;overflow:hidden;background:#000;">
-    <img class="image-title" alt="" src="mylogo.jpg" style="width: 20%; height:20%;position:absolute"/>
+    <img class="image-title" alt="" src="mylogo.png" style="width: 20%; height:20%;position:absolute"/>
     <div></div>
   </div>
   <div class="content">
