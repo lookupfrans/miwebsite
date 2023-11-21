@@ -144,7 +144,7 @@ h5 {
 
 .img {
   width: 90%;
-  height: 160px;
+  height: 150px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -211,7 +211,7 @@ div.checkout-div > button {
 .table-cart {
   width: 100%;
   max-width: 100%;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
   font-family: montserrat, sans-serif;
 }
 
