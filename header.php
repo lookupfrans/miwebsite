@@ -97,7 +97,7 @@
 
         <nav>
             <ul>
-                <li><a href="#" id="en">English</a></li>
+                <li><a href="#" id="en">Korean</a></li>
                 <li><a href="#" id="es">Indonesia</a></li>
             </ul>
         </nav>
