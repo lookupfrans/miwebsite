@@ -59,7 +59,7 @@
     <div class="text-right"><span class="cartcount">{{cartItems.length}} item(s) di keranjang</span></div>
 
     <div class="container">
-      <div class="row">
+      <div class="row" style="line-height:20px;">
         <div class="col-xs-3 text-center" v-for="item in items">
           <div class="img"><img class="img-responsive" :src="item.image" alt="" style="margin-top:15px;"></div><br/>
           <abbr title="Small">S</abbr>
