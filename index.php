@@ -8,7 +8,7 @@
   <link href="https://fonts.googleapis.com/css?family=Amatic+SC&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="styles.css">
   <link rel="stylesheet" type="text/css" href="responsive.css">
-  <link rel="icon" type="image/png" sizes="180x180" href="favo.png">
+  <link rel="icon" type="image/png" sizes="180x180" href="favoo.png">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3624269353063512"
      crossorigin="anonymous"></script>
@@ -48,7 +48,7 @@
 
 <body oncontextmenu="return false">
   <div class="loader" style="text-align:center;height:100vh; width:100vw;overflow:hidden;background:#000;">
-    <img class="image-title" alt="" src="mylogo.png" style="width: 50%; height:50%;position:absolute;line-heignt:50%;"/>
+    <img class="image-title" alt="" src="logo_one.png" style="width: 50%; height:50%;position:absolute;line-heignt:50%;"/>
     <div></div>
   </div>
   <div class="content">
