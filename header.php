@@ -88,7 +88,7 @@
 
 <body>
     <div class="loader" style="text-align:center;height:100vh; width:100vw;overflow:hidden;background:#000;">
-    <img class="image-title" alt="" src="logo_one.png" style="margin-top:120px;width: 50%; height:50%;position:absolute;text-align:center;"/>
+    <img class="image-title" alt="" src="logo_one.png" style="margin-top:120px;width: 20%; height:50%;position:absolute;text-align:center;"/>
     <div></div>
   </div>
   <div class="content">
