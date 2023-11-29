@@ -5,6 +5,10 @@
         width:100%;
     }
 
+    .image-title {
+        width: 100%;
+    }
+
     #countDown {
         font-size: 10px;
         font-weight: normal;
