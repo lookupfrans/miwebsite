@@ -80,8 +80,6 @@ include('header.php');
 
 <body oncontextmenu="return false">
   <div class="loader" style="text-align:center;height:100vh; width:100vw;overflow:hidden;background:#000;">
-    <img class="image-title" alt="" src="logo_one.png"
-      style="width: 50%; height:50%;position:absolute;text-align:center;" />
     <div></div>
   </div>
   <div class="content">
