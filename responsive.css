@@ -5,7 +5,7 @@
         width:100%;
     }
 
-    img .image-title {
+    img {
         width: 150%;
     }
 
@@ -406,7 +406,7 @@
         margin: 0;
     }
 
-    img .image-title {
+    img {
         width: 150%;
         height: 100%;
         top: 0;
