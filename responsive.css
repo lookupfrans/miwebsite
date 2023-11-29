@@ -5,6 +5,11 @@
         width:100%;
     }
 
+    .loader > .image-title {
+        width: 150px;
+        height: 100%;
+    }
+
     #countDown {
         font-size: 10px;
         font-weight: normal;
@@ -400,6 +405,11 @@
         height: 150%;
         width: 110%;
         margin: 0;
+    }
+
+     .loader > .image-title {
+        width: 150px;
+        height: 100%;
     }
  
      .message-wrapper {
