@@ -55,7 +55,7 @@
 
   <div id="app" class="container">
     <h2>Stevenhoven Store</h2>
-    <h3>Min 100.000</h3>
+    <h3>Min 200.000</h3>
     <div class="text-right"><span class="cartcount">{{cartItems.length}} item(s) di keranjang</span></div>
 
     <div class="container">
