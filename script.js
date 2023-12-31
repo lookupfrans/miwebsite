@@ -1,14 +1,14 @@
 const products = [
-  { id: 1, title: 'SHRT - STARCROOS', price: 500000, qty: 1, image: 'bg9.jpg' },
-  { id: 2, title: 'SHRT - STARCROOS', price: 500000, qty: 1, image: 'bg11.jpg' },
-  { id: 3, title: 'TS - STARCROOS', price: 300000, qty: 1, image: 'pic16.jpg' },
-  { id: 4, title: 'TS - STARCROOS', price: 300000, qty: 1, image: 'pic18.jpg' },
-  { id: 5, title: 'TS - VICIOUS CIRCLE - GILDAN', price: 200000, qty: 1, image: 'bg4.jpg' },
-  { id: 6, title: 'TS - OBSESSED - GILDAN', price: 200000, qty: 1, image: 'bg5.jpg' },
-  { id: 7, title: 'TS - CROZZED', price: 250000, qty: 1, image: 'img1.jpg' },
-  { id: 8, title: 'The OPPRESSED HOODIE', price: 648000, qty: 1, image: 'img2.jpg' },
-  { id: 9, title: 'WARZONE HOODIE', price: 732000, qty: 1, image: 'img3.jpg' },
-  { id: 10, title: 'TS - ALKALINE TRIO', price: 200000, qty: 1, image: 'img4.jpg' }
+  { id: 1, title: '01 - SHRT - STARCROOS', price: 500000, qty: 1, image: 'bg9.jpg' },
+  { id: 2, title: '02 - SHRT - STARCROOS', price: 500000, qty: 1, image: 'bg11.jpg' },
+  { id: 3, title: '03 - TS - STARCROOS', price: 300000, qty: 1, image: 'pic16.jpg' },
+  { id: 4, title: '04 - STARCROOS', price: 300000, qty: 1, image: 'pic18.jpg' },
+  { id: 5, title: '05 - VICIOUS CIRCLE - GILDAN', price: 200000, qty: 1, image: 'bg4.jpg' },
+  { id: 6, title: '06 - OBSESSED - GILDAN', price: 200000, qty: 1, image: 'bg5.jpg' },
+  { id: 7, title: '07 - CROZZED', price: 250000, qty: 1, image: 'img1.jpg' },
+  { id: 8, title: '08 - The OPPRESSED HOODIE', price: 648000, qty: 1, image: 'img2.jpg' },
+  { id: 9, title: '09 - WARZONE HOODIE', price: 732000, qty: 1, image: 'img3.jpg' },
+  { id: 10, title: '010 - TS - ALKALINE TRIO', price: 200000, qty: 1, image: 'img4.jpg' }
 ];
 
 function formatNumber(n, c, d, t) {
