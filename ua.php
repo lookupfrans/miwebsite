@@ -173,7 +173,7 @@ include('header.php');
               alamat email melalui formulir informasi pengiriman dan kotak pop-up di situs kami.
               Kami menggunakan informasi ini untuk mengirimkan informasi aktivitas kami sesekali untuk memperbarui
               pengikut kami dengan
-              buletin (blog artikel, pengumuman, laporan), promosi (penjualan, penawaran, hadiah, penawaran), kemitraan
+              buletin (blog artikel), promosi (penjualan, penawaran, hadiah, penawaran), kemitraan
               dan kerja sama
               pendanaan (kesepakatan bisnis, peluang kemitraan, investasi), produk/layanan (pembaruan, baru atau
               dihapus) atau
