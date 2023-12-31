@@ -91,9 +91,9 @@
     <img class="image-title" alt="" src="logo_one.png" style="margin-top:120px;width: 25%; height:50%;position:absolute;text-align:center;"/>
     <div></div>
   </div>
-  <div class="content">
+  <!---<div class="content">
     <div class="container">
-        <h2 style="font-size:30px;">Stevenhoven Store</h2>
+        <h2 style="font-size:30px;">Stevenhoven Store</h2>--->
 
         <nav>
             <ul>
