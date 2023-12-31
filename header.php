@@ -93,7 +93,7 @@
   </div>
   <!---<div class="content">
     <div class="container">
-        <h2 style="font-size:30px;">Stevenhoven Store</h2>--->
+        <h2 style="font-size:30px;">Stevenhoven Store</h2>
 
         <nav>
             <ul>
@@ -101,7 +101,7 @@
                 <li><a href="#" id="es">Indonesian</a></li>
             </ul>
         </nav>
-    </div>
+    </div>--->
   </div>
 
        <script>
