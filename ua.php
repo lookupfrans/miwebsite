@@ -145,21 +145,20 @@ include('header.php');
               berbeda
               tampilannya di layar― dan warnanya mungkin berbeda dari persediaan saat ini ke persediaan berikutnya.
               Karena sifatnya,
-              dari warna-warna hidup material pewarna alami, warna dapat berubah dan sempurna seiring berjalannya waktu.
-              Sekali memesan pakaian, ukuran pakaian yang diminta telah dipotong dari gulungan, kami tidak dapat lagi
-              menawarkan <tanda style="color:kuning">pengembalian</mark> atau <mark style="color:kuning">pengembalian
-                  dana</mark>.</p>
+              dari warna-warna hidup material pewarna alami, warna sifatnya fleksibel dan sempurna seiring berjalannya waktu.
+              Sekali memesan pakaian, ukuran pakaian yang diminta telah dipotong dari gulungan, kami memohon maaf untuk tidak dapat lagi
+              menawarkan <tanda style="color:kuning">jasa pengembalian</mark> atau <mark style="color:kuning">refund cycle</mark>.</p>
             <br /><br /><br />
 
             <b>BARANG TIDAK TERKIRIM</b>
             <p style="padding-bottom: 40px; text-align: justify; margin-top: 10px;">Untuk item yang diposting namun
               tidak
               terkirim,
-              kami meminta pemberitahuan dalam waktu maksimal 2 minggu, sehingga barang dapat dilacak dan dipulihkan.
+              kami meminta pemberitahuan dalam waktu maksimal 2 minggu, sehingga barang dapat melalui tracking dan dipulihkan.
               Setiap item
               yang diposting, tetap tidak terkirim dan tanpa pemberitahuan kepada kami oleh pihak jasa kargo, kami akan
-              mengganti dengan item yang baru. Kami akan memastikan barang dalam keadaan
-              <mark style="color: yellow">aman</mark>. Kami juga akan memberitahu waktu barang akan sampai kepada klien.
+              mensubstitusi/mengganti dengan item yang baru. Kami akan memastikan barang dalam keadaan
+              <mark style="color: yellow">aman</mark>. Kami juga akan memberitahu waktu barang akan sampai kepada pelanggan.
             </p>
 
             <div style="border:1px solid #fff;">
@@ -171,7 +170,7 @@ include('header.php');
             <hr><br /><br />
             <b style="padding-left:0px;">INFORMASI</b>
             <p style="margin-top: 5px; text-align: justify; margin-left:0px;;padding-top:5px;">Kami mencatat nama dan
-              alamat email melalui formulir informasi pengiriman dan kotak pop-up di situs web kami.
+              alamat email melalui formulir informasi pengiriman dan kotak pop-up di situs kami.
               Kami menggunakan informasi ini untuk mengirimkan informasi aktivitas kami sesekali untuk memperbarui
               pengikut kami dengan
               buletin (blog artikel, pengumuman, laporan), promosi (penjualan, penawaran, hadiah, penawaran), kemitraan
@@ -180,13 +179,13 @@ include('header.php');
               dihapus) atau
               pasar penelitian (survei, penelitian kualitas & kuantitas, umpan balik, penilaian dan ulasan).
               Jangan khawatir, kami mengumpulkan dan menyimpan informasi ini dengan aman. Kami tidak membagikan
-              informasi ini kepada orang lain. Meskipun demikian, hal itu dapat diakses oleh staf atau asisten yang
+              informasi ini kepada orang lain. Meskipun demikian, hal itu dapat diakses oleh staf atau delegasi tertentu yang
               membantu media sosial kami dalam
               pemasaran, namun kami tidak mengizinkan siapa pun mengumpulkan atau menyimpan informasi ini. Data ini
               disimpan
-              bersama kami tanpa batas waktu, atau sampai klien mungkin ingin menghapus informasi kontak mereka dari
+              bersama kami tanpa batas waktu, atau sampai pelanggan mungkin ingin mengeliminasi atau menghapus informasi kontak mereka dari
               daftar kami, yang kemudian akan dihapus dari file kami.
-              Jika Anda ingin berhenti berlangganan dari aktivitas kami, Anda dapat melakukannya kapan saja.</p>
+              Jika Anda ingin berhenti berlangganan dari aktivitas kami, Anda dapat melakukannya kapan saja melalui kontak Whatsapp di situs kami dengan dengan mengubah layar ke desktop site.</p>
           </div>
         </div>
       </div>
