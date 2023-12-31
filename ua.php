@@ -84,7 +84,7 @@ include('header.php');
   </div>
   <div class="content">
 
-    <---<div class="message-wrapper" style="padding-right:200px;padding-left:200px;margin-left:0px;">
+    //<div class="message-wrapper" style="padding-right:200px;padding-left:200px;margin-left:0px;">
       <div class="container">
         <div id="content">
           <div id="agreement-en">
@@ -132,7 +132,7 @@ include('header.php');
               당사 메일링 리스트에 있는 연락처 정보는 당사 파일에서 삭제됩니다.
               메일링 리스트에서 탈퇴하고 싶으시면 언제든지 탈퇴하실 수 있습니다.</p>
           </div>
-        </div>---!>
+        </div>//
 
         <div id="content">
           <div id="agreement-es" style="display: none;">
