@@ -65,7 +65,7 @@
           <abbr title="Small">S</abbr>
           <abbr title="Medium">M</abbr>
           <abbr title="Large">L</abbr>
-          <p title="10 Item Tersisa">10 Item Tersisa</p>
+          <p title="10 Item Tersedia">10 Item Tersedia</p>
           <h5>{{ item.title }}</h5>
           <p class="text-center">
             <input v-model="item.qty" type="number" class="form-control" placeholder="Qty" min="1" />
