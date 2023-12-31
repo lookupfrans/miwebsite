@@ -82,9 +82,9 @@ include('header.php');
   <div class="loader" style="text-align:center;height:100vh; width:100vw;overflow:hidden;background:#000;">
     <div></div>
   </div>
-  <div class="content">
+  <!---<div class="content">
 
-    <!---<div class="message-wrapper" style="padding-right:200px;padding-left:200px;margin-left:0px;">
+    <div class="message-wrapper" style="padding-right:200px;padding-left:200px;margin-left:0px;">
       <div class="container">
         <div id="content">
           <div id="agreement-en">
