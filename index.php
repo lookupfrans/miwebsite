@@ -143,15 +143,15 @@
                 <td> <input size="70" type="text" name="alamat" autocomplete="on" required></td>
               </tr>
               <tr>
-                <td>Kode Item (dipisah dengan notasi koma berurutan apabila lebih dari satu se): </td>
+                <td>Kode Item (<u>dipisah dengan notasi koma berurutan apabila lebih dari satu</u>): </td>
                 <td> <input size="70" type="text" name="alamat2" autocomplete="on"></td>
               </tr>
               <tr>
-                <td>Kuantitas (dipisah dengan notasi koma berurutan apabila lebih dari satu): </td>
+                <td>Kuantitas (<u>dipisah dengan notasi koma berurutan apabila lebih dari satu</u>): </td>
                 <td> <input size="70" type="text" name="alamat2" autocomplete="on"></td>
               </tr>
               <tr>
-                <td>Ukuran(dipisah dengan notasi koma berurutan apabila lebih dari satu): </td>
+                <td>Ukuran(<u>dipisah dengan notasi koma berurutan apabila lebih dari satu</u>): </td>
                 <td> <input size="70" type="text" name="alamat2" autocomplete="on"></td>
               </tr>
               <tr>
