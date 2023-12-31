@@ -143,7 +143,11 @@
                 <td> <input size="70" type="text" name="alamat" autocomplete="on" required></td>
               </tr>
               <tr>
-                <td>Alamat Lengkap Kedua (Opsional):</td>
+                <td>Kode Item: </td>
+                <td> <input size="70" type="text" name="alamat2" autocomplete="on"></td>
+              </tr>
+              <tr>
+                <td>Kuantitas: </td>
                 <td> <input size="70" type="text" name="alamat2" autocomplete="on"></td>
               </tr>
               <tr>
