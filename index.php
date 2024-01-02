@@ -17,7 +17,7 @@
   display: none;
 }
 
-i > .firstColumn {
+td > .firstColumn {
   size:15px;
   position:absolutr;
 }
