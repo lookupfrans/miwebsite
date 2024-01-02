@@ -17,7 +17,7 @@
   display: none;
 }
 
-td > .firstColumn {
+input > .firstColumn {
   size:15px;
   position:absolutr;
 }
