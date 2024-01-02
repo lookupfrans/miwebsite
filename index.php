@@ -144,11 +144,11 @@
               </tr>
               <tr>
                 <td>Kode Item (<i>dipisah dengan notasi koma berurutan apabila lebih dari satu</i>): </td>
-                <td> <input size="70" type="text" name="alamat2" autocomplete="on"></td>
+                <td> <input class="firstClass" size="70" type="text" name="alamat2" autocomplete="on"></td>
               </tr>
               <tr>
                 <td>Kuantitas (<i>dipisah dengan notasi koma berurutan apabila lebih dari satu</i>): </td>
-                <td> <input size="70" type="text" name="alamat2" autocomplete="on"></td>
+                <td> <input class="secondClass" size="70" type="text" name="alamat2" autocomplete="on"></td>
               </tr>
               <tr>
                 <td>Ukuran(<i>dipisah dengan notasi koma berurutan apabila lebih dari satu</i>): </td>
@@ -209,6 +209,24 @@
       </div>
     </shopping-cart>
   </div>
+
+<script>
+  // Get the element with class "secondClass"
+  var element = document.querySelector('.secondClass');
+
+  // Check if the element is found
+  if (element) {
+    // Modify the content of the element
+    element.innerText = 'Element found and modified using document.querySelector.';
+    // Change the background color
+    element.style.backgroundColor = '#eee';
+  } else {
+    // Log a message if the element is not found
+    console.error('Element with class "secondClass" not found.');
+  }
+</script>
+
+    
 
    <script>
       function upload_check()
