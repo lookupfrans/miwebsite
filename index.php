@@ -17,7 +17,7 @@
   display: none;
 }
 
-.firstColumn {
+i > .firstColumn {
   size:15px;
   position:absolutr;
 }
