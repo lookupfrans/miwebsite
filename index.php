@@ -149,7 +149,7 @@ input > .firstColumn {
               </tr>
               <tr>
                 <td>Kode Item : </td>
-                <td> <input size="70" type="text" name="alamat2" autocomplete="on"><br>   (<i class="firstColumn">dipisah dengan notasi koma berurutan apabila lebih dari satu</i>)</td>
+                <td> <input size="70" type="text" name="alamat2" autocomplete="on"><br>       (<i class="firstColumn">dipisah dengan notasi koma berurutan apabila lebih dari satu</i>)</td>
               </tr>
               <tr>
                 <td>Kuantitas (<i>dipisah dengan notasi koma berurutan apabila lebih dari satu</i>): </td>
