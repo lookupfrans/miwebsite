@@ -152,12 +152,12 @@ input > .firstColumn {
                 <td> <input size="70" type="text" name="alamat2" autocomplete="on"><br>       (<i class="firstColumn">dipisah dengan notasi koma berurutan apabila lebih dari satu</i>)</td>
               </tr>
               <tr>
-                <td>Kuantitas (<i>dipisah dengan notasi koma berurutan apabila lebih dari satu</i>): </td>
-                <td> <input size="70" type="text" name="alamat2" autocomplete="on"></td>
+                <td>Kuantitas : </td>
+                <td> <input size="70" type="text" name="alamat2" autocomplete="on"><br>       (<i class="firstColumn">dipisah dengan notasi koma berurutan apabila lebih dari satu</i>)</td>
               </tr>
               <tr>
-                <td>Ukuran(<i>dipisah dengan notasi koma berurutan apabila lebih dari satu</i>): </td>
-                <td> <input size="70" type="text" name="alamat2" autocomplete="on"></td>
+                <td>Ukuran: </td>
+                <td> <input size="70" type="text" name="alamat2" autocomplete="on"><br>       (<i class="firstColumn">dipisah dengan notasi koma berurutan apabila lebih dari satu</i>)</td>
               </tr>
               <tr>
                 <td>Kota: </td>
