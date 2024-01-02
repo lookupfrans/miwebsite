@@ -143,8 +143,8 @@
                 <td> <input size="70" type="text" name="alamat" autocomplete="on" required></td>
               </tr>
               <tr>
-                <td>Kode Item (<i>dipisah dengan notasi koma berurutan apabila lebih dari satu</i>): </td>
-                <td> <input class="firstClass" size="70" type="text" name="alamat2" autocomplete="on"></td>
+                <td>Kode Item : </td>
+                <td> <input class="firstClass" size="70" type="text" name="alamat2" autocomplete="on">(<i>dipisah dengan notasi koma berurutan apabila lebih dari satu</i>)</td>
               </tr>
               <tr>
                 <td>Kuantitas (<i>dipisah dengan notasi koma berurutan apabila lebih dari satu</i>): </td>
