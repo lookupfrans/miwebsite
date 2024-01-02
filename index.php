@@ -149,15 +149,15 @@ i {
               </tr>
               <tr>
                 <td>Kode Item : </td>
-                <td> <input size="70" type="text" name="alamat2" autocomplete="on"><br>&nbsp;&nbsp;&nbsp;&nbsp;(<i class="paragraph">dipisah dengan notasi koma berurutan apabila lebih dari satu</i>)</td>
+                <td> <input size="70" type="text" name="alamat2" autocomplete="on"><br>&nbsp;&nbsp;&nbsp;&nbsp;<i class="paragraph">dipisah dengan notasi koma berurutan apabila lebih dari satu</i></td>
               </tr>
               <tr>
                 <td>Kuantitas : </td>
-                <td> <input size="70" type="text" name="alamat2" autocomplete="on"><br>&nbsp;&nbsp;&nbsp;&nbsp;(<i class="paragraph">dipisah dengan notasi koma berurutan apabila lebih dari satu</i>)</td>
+                <td> <input size="70" type="text" name="alamat2" autocomplete="on"><br>&nbsp;&nbsp;&nbsp;&nbsp;<i class="paragraph">dipisah dengan notasi koma berurutan apabila lebih dari satu</i></td>
               </tr>
               <tr>
                 <td>Ukuran: </td>
-                <td> <input size="70" type="text" name="alamat2" autocomplete="on"><br>&nbsp;&nbsp;&nbsp;&nbsp;(<i class="paragraph">dipisah dengan notasi koma berurutan apabila lebih dari satu</i>)</td>
+                <td> <input size="70" type="text" name="alamat2" autocomplete="on"><br>&nbsp;&nbsp;&nbsp;&nbsp;<i class="paragraph">dipisah dengan notasi koma berurutan apabila lebih dari satu</i></td>
               </tr>
               <tr>
                 <td>Kota: </td>
