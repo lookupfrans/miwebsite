@@ -185,7 +185,7 @@ include('header.php');
               disimpan
               bersama kami tanpa batas waktu, atau sampai pelanggan mungkin ingin mengeliminasi atau menghapus informasi kontak mereka dari
               daftar kami, yang kemudian akan dihapus dari file kami.
-              Jika Anda ingin berhenti berlangganan dari aktivitas kami, Anda dapat melakukannya kapan saja melalui kontak Whatsapp di situs kami dengan dengan mengubah layar ke desktop site.</p>
+              Jika Anda ingin berhenti berlangganan dari aktivitas kami, Anda dapat melakukannya kapan saja melalui kontak Whatsapp di situs kami dengan mengubah layar ke desktop site.</p>
           </div>
         </div>
       </div>
