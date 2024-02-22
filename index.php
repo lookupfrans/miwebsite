@@ -149,8 +149,8 @@ i {
               </tr>
               <tr>
                 <td>Kode Item : </td>
-                <td> <input size="70" type="text" name="alamat2" autocomplete="on"><br>&nbsp;&nbsp;&nbsp;&nbsp;<i class="paragraph">*dipisah dengan notasi koma berurutan apabila lebih dari satu,\n e.g. 01,02,05</i>
-                <i class="paragraph">e.g. 01,02,05,07</i></td>
+                <td> <input size="70" type="text" name="alamat2" autocomplete="on"><br>&nbsp;&nbsp;&nbsp;&nbsp;<i class="paragraph">*dipisah dengan notasi koma berurutan apabila lebih dari satu,\n e.g. 01,02,05</i></td>
+                <td><i class="paragraph">e.g. 01,02,05,07</i></td>
               </tr>
               <tr>
                 <td>Kuantitas : </td>
