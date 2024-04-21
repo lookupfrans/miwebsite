@@ -135,7 +135,7 @@ include('header.php');
         </div>
 
         <div id="content">
-          <div id="agreement-es" style="display:block;text-align: center;margin-left: 50px;">
+          <div id="agreement-es" style="display:block;text-align: left;margin-left: 0px;">
             <h1 style="margin-top: 0px; text-align: center; font-family: 'Cormorant',; padding-top: 0px; opacity: 0.5;">
               Persetujuan Pengguna</h1>
             <hr><br /><br />
