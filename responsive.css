@@ -6,7 +6,6 @@
     }
 
     .loader > .image-title {
-        display:none;
         text-align:center
         position:absolute;
     }
@@ -407,7 +406,6 @@
      
     
     .loader > .image-title {
-        display:none;
         text-align:center
         position:absolute;
     }
