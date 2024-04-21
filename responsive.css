@@ -6,10 +6,7 @@
     }
 
     .loader > .image-title {
-        width: 100%;
-        height: 100%;
-        text-align:center;
-        justify-content:center;
+        display:none;
     }
 
     #countDown {
@@ -409,11 +406,9 @@
         margin: 0;
     }
 
-      .loader > .image-title {
-        width: 100%;
-        height: 100%;
-        text-align:center;
-        justify-content:center;
+     
+    .loader > .image-title {
+        display:none;
     }
  
      .message-wrapper {
