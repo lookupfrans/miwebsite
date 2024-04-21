@@ -31,7 +31,7 @@
             list-style-type: none;
             padding: 0;
             margin-left: 190px;
-            
+
         }
 
         nav li {
@@ -42,8 +42,8 @@
             border: 1px solid #fff;
         }
 
-         nav li:hover {
-             background: brown;
+        nav li:hover {
+            background: brown;
         }
 
         nav a {
@@ -53,65 +53,68 @@
             font-family: montserrat, sans-serif;
         }
 
-         .content {
-              display: none;
+        .content {
+            display: none;
         }
-    
-        .loader > .image-title {
-          height: 200px;
-          width: 100px;
-          justify-content: center;
-          align-items: center;
-          text-align: center;
-          /*border-top-color: #2a88e6;
+
+        .loader>.image-title {
+            height: 200px;
+            width: 100px;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            /*border-top-color: #2a88e6;
           border: 15px solid #45474b;*/
-          /*position: absolute;*/
-          background-image: url(../img/jpg6.jpg);
-          margin: auto;
-          margin-bottom: 400px;
-          top: 0;
-          bottom: 0;
-          left: 0;
-          right: 0;
-          border-radius: 0;
-          animation: fadeOut 1s infinite linear;
-          /*-webkit-animation-duration: 5s;animation-duration: 1s;*/
-          /*-webkit-animation-fill-mode: both;animation-fill-mode: both;*/
+            /*position: absolute;*/
+            background-image: url(../img/jpg6.jpg);
+            margin: auto;
+            margin-bottom: 400px;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            border-radius: 0;
+            animation: fadeOut 1s infinite linear;
+            /*-webkit-animation-duration: 5s;animation-duration: 1s;*/
+            /*-webkit-animation-fill-mode: both;animation-fill-mode: both;*/
         }
-        
+
         @keyframes fadeOut {
-          0% {opacity: 1;}
-          100% {opacity: 0;} 
+            0% {
+                opacity: 1;
+            }
+
+            100% {
+                opacity: 0;
+            }
         }
     </style>
 </head>
 
 <body>
-    <div class="loader" style="text-align:center;height:100vh; width:100vw;overflow:hidden;background:#000;">
-    <img class="image-title" alt="" src="logo_one.png" style="margin-top:120px;width: 25%; height:50%;position:absolute;text-align:center;"/>
-    <div></div>
-  </div>
-  <!---<div class="content">
-    <div class="container">
-        <h2 style="font-size:30px;">Stevenhoven Store</h2>
+    <div class="loader" style="text-align:center;height:auto; width:100vw;">
+        <img class="image-title" alt="" src="mylogo.png"
+            style="margin-top:120px;width: 25%; height:50%;position:absolute;text-align:center;" />
+        <div></div>
+    </div>
+    <div class="content">
+        <div class="container">
+            <h2 style="font-size:30px;">Stevenhoven Store</h2>
 
-        <nav>
-            <ul>
-                <!----<li><a href="#" id="en">Korean</a></li>
-                <li><a href="#" id="es">Indonesian</a></li>
-            </ul>
-        </nav>
-    </div>--->
-  </div>
+            <nav>
+                <ul>
+                    <li><a href="#" id="en">Korean</a></li>
+                    <li><a href="#" id="es">Indonesian</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
 
-        <br/>
-        <br/>
+    <script>
+        $(window).on('load', function () {
+            $(".loader").fadeOut(5000);
+            $(".content").fadeIn(5000);
+        });
+</body >
 
-       <script>
-    $(window).on('load', function () {
-      $(".loader").fadeOut(5000);
-      $(".content").fadeIn(5000);
-    });
-</body>
-
-</html>
+</html >
