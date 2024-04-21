@@ -8,6 +8,8 @@
     .loader > .image-title {
         text-align:center;
         position:absolute;
+        height: 100%;
+        width:100%;
     }
 
     #countDown {
@@ -406,8 +408,10 @@
      
     
     .loader > .image-title {
-        text-align:center;
+       text-align:center;
         position:absolute;
+        height: 100%;
+        width:100%;
     }
  
      .message-wrapper {
