@@ -5,7 +5,7 @@ const agreementEn = document.getElementById('agreement-en');
 const agreementEs = document.getElementById('agreement-es');
 
 // Function to show English content and hide Spanish content
-function showEnglish() {
+function showKr() {
     agreementEn.style.display = 'block';
     agreementEs.style.display = 'none';
 }
