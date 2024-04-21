@@ -7,7 +7,7 @@
 
     .loader > .image-title {
         text-align:center;
-        position:absolute;
+        /*position:absolute;*/
         height: 100%;
         width:100%;
     }
@@ -409,7 +409,7 @@
     
     .loader > .image-title {
        text-align:center;
-        position:absolute;
+        /*position:absolute;*/
         height: 100%;
         width:100%;
     }
