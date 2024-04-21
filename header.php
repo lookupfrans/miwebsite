@@ -92,7 +92,7 @@
 </head>
 
 <body>
-    <div class="loader" style="text-align:center;height:auto; width:100vw;">
+    <div class="loader" style="text-align:center;height:auto; width:100vw;background-color:#000">
         <img class="image-title" alt="" src="mylogo.png"
             style="margin-top:120px;width: 25%; height:50%;text-align:center;" />
         <div></div>
