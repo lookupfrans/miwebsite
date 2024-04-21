@@ -79,9 +79,9 @@ include('header.php');
   </style>
 
 <body oncontextmenu="return false">
-  <div class="loader" style="text-align:center;height:100vh; width:100vw;overflow:hidden;background:#000;">
+  <!---<div class="loader" style="text-align:center;height:100vh; width:100vw;overflow:hidden;background:#000;">
     <div></div>
-  </div>
+  </div>--->
   <div class="content">
 
     <div class="message-wrapper" style="padding-right:200px;padding-left:200px;margin-left:0px;">
